@@ -1,0 +1,17 @@
+FAAN Staff Promotion CBT Practice
+==================================
+
+This is a complete, offline practice app. It does not need the internet
+to run, and it does not install anything on the computer.
+
+To start using it:
+
+1. Double-click "Create Shortcuts.bat" (just once). This adds a shortcut
+   to your Desktop and Start Menu, so you can open the app the same way
+   as any other program from now on.
+
+2. Double-click "FAAN CBT Practice.exe" (or the new Desktop shortcut) to
+   open the app.
+
+That's it. You can copy this whole folder to another computer or a USB
+drive and it will keep working, with or without internet.

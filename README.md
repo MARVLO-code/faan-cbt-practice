@@ -18,7 +18,31 @@ syllabus plus **General Knowledge / Current Affairs**.
 - A results screen shows the score, pass/fail, and a full answer review
   (correct answer highlighted for every question).
 
-## Running it locally (no internet needed)
+## Windows desktop app (recommended for offline use)
+
+For a real double-click desktop app (taskbar icon, Desktop/Start Menu
+shortcut — not just an HTML file), build the portable Windows package:
+
+```bash
+cd app
+npm install
+npm run package:win
+```
+
+This produces `app/release/win-unpacked/`, a self-contained folder with
+`FAAN CBT Practice.exe`. Hand that whole folder to the end user (zip it,
+copy it to a USB drive, whatever) — inside it they:
+
+1. Double-click **`Create Shortcuts.bat`** once, to add a Desktop and Start
+   Menu shortcut (no admin rights needed).
+2. From then on, open **FAAN CBT Practice** like any other installed app.
+
+No internet connection is needed to run it. `npm run package:win` requires
+`node_modules/electron/dist` to be populated by `npm install` first (if
+`npm install` can't reach the Electron binary download, see the note in
+`app/scripts/package-win.cjs`).
+
+## Running it as a plain web app (no internet needed)
 
 ```bash
 cd app
