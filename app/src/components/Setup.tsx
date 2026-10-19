@@ -9,7 +9,7 @@ interface Props {
 const CATEGORY_OPTIONS: { value: CategoryChoice; label: string }[] = [
   { value: 'mechanical', label: 'Mechanical Department' },
   { value: 'general', label: 'General Knowledge / Current Affairs' },
-  { value: 'mixed', label: 'Mixed (Both)' },
+  { value: 'mixed', label: 'Mixed (80% Mechanical / 20% General)' },
 ];
 
 const MODE_OPTIONS: { value: ModeChoice; label: string; hint: string }[] = [

@@ -24,16 +24,43 @@ function filterQuestions(category: CategoryChoice, mode: ModeChoice): Question[]
   });
 }
 
+/** When "Mixed" subject area is chosen, this fraction of questions comes
+ * from the Mechanical Department (the rest from General Knowledge). */
+const MIXED_MECHANICAL_SHARE = 0.8;
+
 /**
- * Builds a randomized session. For 'mixed' category it balances roughly
- * evenly between general and mechanical. For 'mixture' mode it balances
- * roughly evenly between past and likely questions.
+ * Builds a randomized session. For the 'mixed' category it targets an
+ * 80% Mechanical / 20% General split (falling back to whichever pool has
+ * questions available if one side runs short). For 'mixture' mode it draws
+ * freely from both past and likely questions.
  */
 export function buildSession(
   category: CategoryChoice,
   mode: ModeChoice,
   numQuestions: number,
 ): Question[] {
+  if (category === 'mixed') {
+    const mechPool = shuffle(filterQuestions('mechanical', mode));
+    const genPool = shuffle(filterQuestions('general', mode));
+
+    let mechCount = Math.round(numQuestions * MIXED_MECHANICAL_SHARE);
+    let genCount = numQuestions - mechCount;
+
+    if (mechCount > mechPool.length) {
+      genCount += mechCount - mechPool.length;
+      mechCount = mechPool.length;
+    }
+    if (genCount > genPool.length) {
+      mechCount += genCount - genPool.length;
+      genCount = genPool.length;
+    }
+    mechCount = Math.min(mechCount, mechPool.length);
+    genCount = Math.min(genCount, genPool.length);
+
+    const picked = shuffle([...mechPool.slice(0, mechCount), ...genPool.slice(0, genCount)]);
+    return picked.map(randomizeOptionOrder);
+  }
+
   const pool = filterQuestions(category, mode);
   const shuffled = shuffle(pool);
   const picked = shuffled.slice(0, Math.min(numQuestions, shuffled.length));

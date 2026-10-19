@@ -5,6 +5,8 @@ interface Props {
   config: SessionConfig;
   questions: Question[];
   startedAt: number;
+  initialAnswers?: Record<string, number | null>;
+  onAnswersChange: (answers: Record<string, number | null>) => void;
   onFinish: (result: SessionResult) => void;
 }
 
@@ -17,12 +19,24 @@ function formatTime(totalSeconds: number): string {
   return h > 0 ? `${pad(h)}:${pad(m)}:${pad(sec)}` : `${pad(m)}:${pad(sec)}`;
 }
 
-export default function Exam({ config, questions, startedAt, onFinish }: Props) {
+export default function Exam({
+  config,
+  questions,
+  startedAt,
+  initialAnswers,
+  onAnswersChange,
+  onFinish,
+}: Props) {
   const [current, setCurrent] = useState(0);
-  const [answers, setAnswers] = useState<Record<string, number | null>>(() =>
-    Object.fromEntries(questions.map((q) => [q.id, null])),
+  const [answers, setAnswers] = useState<Record<string, number | null>>(
+    () => initialAnswers ?? Object.fromEntries(questions.map((q) => [q.id, null])),
   );
   const finishedRef = useRef(false);
+
+  useEffect(() => {
+    onAnswersChange(answers);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [answers]);
 
   const totalSeconds = config.durationMinutes * 60;
   const [remaining, setRemaining] = useState(() => {

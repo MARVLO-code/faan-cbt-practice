@@ -1,6 +1,28 @@
-import json, random, sys
+import json, random, re, sys
 
 random.seed(42)
+
+STOP = set(
+    'the a an of and or to for in on at is are was were be been being with as by from '
+    'into that this these those which who whom what when where how not no all'.split()
+)
+
+
+def _words(s):
+    return set(w for w in re.findall(r"[a-zA-Z']+", s.lower()) if w not in STOP and len(w) > 2)
+
+
+def too_similar(a, b):
+    """True if two answer strings are near-duplicates/synonymous enough that
+    using one as a distractor for the other would make the question ambiguous."""
+    if a.strip().lower() == b.strip().lower():
+        return True
+    wa, wb = _words(a), _words(b)
+    if not wa or not wb:
+        return False
+    overlap = len(wa & wb) / max(1, min(len(wa), len(wb)))
+    return overlap >= 0.6 and min(len(wa), len(wb)) >= 2
+
 
 def build_mcq(items, id_prefix, category, qtype):
     out = []
@@ -10,7 +32,10 @@ def build_mcq(items, id_prefix, category, qtype):
 
     for it in items:
         sec = it['section']
-        pool = [x['answer'] for x in by_section[sec] if x['answer'] != it['answer'] and x['num'] != it['num']]
+        pool = [
+            x['answer'] for x in by_section[sec]
+            if x['num'] != it['num'] and not too_similar(x['answer'], it['answer'])
+        ]
         # dedupe pool while preserving order
         seen = set()
         uniq_pool = []
@@ -22,10 +47,10 @@ def build_mcq(items, id_prefix, category, qtype):
         distractors = uniq_pool[:3]
         # fallback if section pool too small
         if len(distractors) < 3:
-            other = [x['answer'] for x in items if x['answer'] != it['answer']]
+            other = [x['answer'] for x in items if not too_similar(x['answer'], it['answer'])]
             seen2 = set(distractors)
             for a in other:
-                if a not in seen2 and a != it['answer']:
+                if a not in seen2:
                     distractors.append(a)
                     seen2.add(a)
                 if len(distractors) >= 3:

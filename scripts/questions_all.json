@@ -20,10 +20,10 @@
     "section": "ADMINISTRATION",
     "question": "What method is used to select officers for promotion under the Public Service Rules?",
     "options": [
-      "Satisfactory service record MACHINERY OF GOVERNMENT IN NIGERIA (26–45)",
-      "Genuine and acceptable performance",
+      "Ability and competence to perform higher duties",
+      "To select the best candidates",
       "Selection from suitable candidates",
-      "Coordination and administration"
+      "Evaluation of past duties"
     ],
     "correctIndex": 2
   },
@@ -35,11 +35,11 @@
     "question": "What is the primary purpose of promotion in the public service?",
     "options": [
       "Ability to perform duties effectively",
-      "Directorate of Human Resources and Administration",
       "To reward effort and merit",
-      "Genuine and acceptable performance"
+      "Genuine and acceptable performance",
+      "Coordination and administration"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "GEN-PQ-4",
@@ -48,12 +48,12 @@
     "section": "ADMINISTRATION",
     "question": "What must an officer demonstrate to earn promotion?",
     "options": [
-      "To reward effort and merit",
-      "Ability and competence to perform higher duties",
-      "Ability to perform duties effectively",
-      "Competitive merit"
+      "Coordination and administration",
+      "2026 Edition",
+      "Ability to carry out assigned duties",
+      "Ability and competence to perform higher duties"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "GEN-PQ-5",
@@ -62,12 +62,12 @@
     "section": "ADMINISTRATION",
     "question": "What conduct record is required for promotion eligibility?",
     "options": [
-      "Federal Airports Authority of Nigeria",
-      "Satisfactory conduct and performance",
-      "Successful examination or interview",
-      "Choosing the most suitable candidates"
+      "Choosing the most suitable candidates",
+      "Demonstrated competence and performance",
+      "Coordination and administration",
+      "Satisfactory conduct and performance"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "GEN-PQ-6",
@@ -77,9 +77,9 @@
     "question": "What examination outcome is required for promotion?",
     "options": [
       "Creditable success",
-      "Qualification, conduct, and performance",
-      "2026 Edition",
-      "Equal opportunity based on merit"
+      "Promotion examination",
+      "To reward effort and merit",
+      "Successful examination or interview"
     ],
     "correctIndex": 0
   },
@@ -90,12 +90,12 @@
     "section": "ADMINISTRATION",
     "question": "What document governs promotion in the Nigerian Public Service?",
     "options": [
+      "Equal opportunity based on merit",
+      "Federal Airports Authority of Nigeria",
       "Public Service Rules",
-      "Ability to carry out assigned duties",
-      "Satisfactory conduct and performance",
-      "To select the best candidates"
+      "Ability and competence to perform higher duties"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
     "id": "GEN-PQ-8",
@@ -104,12 +104,12 @@
     "section": "ADMINISTRATION",
     "question": "What body packaged the FAAN Promotion Examination syllabus?",
     "options": [
+      "Promotion examination",
       "Directorate of Human Resources and Administration",
-      "To reward effort and merit",
-      "Qualification, conduct, and performance",
-      "Promotion examination"
+      "Satisfactory service record MACHINERY OF GOVERNMENT IN NIGERIA (26–45)",
+      "Selection from suitable candidates"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "GEN-PQ-9",
@@ -118,12 +118,12 @@
     "section": "ADMINISTRATION",
     "question": "What type of examination is conducted for FAAN promotion?",
     "options": [
+      "Evaluation of past duties",
       "Ability to perform duties effectively",
-      "Competitive merit",
-      "Promotion examination",
-      "Qualification, conduct, and performance"
+      "To select the best candidates",
+      "Promotion examination"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "GEN-PQ-10",
@@ -132,12 +132,12 @@
     "section": "ADMINISTRATION",
     "question": "What is the purpose of a promotion interview?",
     "options": [
-      "Promotion examination",
-      "To select the best candidates",
-      "To assess suitability for higher responsibility",
-      "Ability to perform duties effectively"
+      "Equal opportunity based on merit",
+      "Federal Airports Authority of Nigeria",
+      "To reward effort and merit",
+      "To assess suitability for higher responsibility"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "GEN-PQ-11",
@@ -146,12 +146,12 @@
     "section": "ADMINISTRATION",
     "question": "What must precede promotion in FAAN?",
     "options": [
-      "Demonstrated competence and performance",
-      "Successful examination or interview",
-      "Ability and competence to perform higher duties",
-      "Federal Airports Authority of Nigeria"
+      "Satisfactory conduct and performance",
+      "Ability to carry out assigned duties",
+      "Evaluation of past duties",
+      "Successful examination or interview"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "GEN-PQ-12",
@@ -160,12 +160,12 @@
     "section": "ADMINISTRATION",
     "question": "What is merit in public service promotion?",
     "options": [
-      "Demonstrated competence and performance",
-      "Federal Airports Authority of Nigeria",
-      "Directorate of Human Resources and Administration",
-      "Promotion examination"
+      "Ability and competence to perform higher duties",
+      "Qualification, conduct, and performance",
+      "Creditable success",
+      "Demonstrated competence and performance"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
     "id": "GEN-PQ-13",
@@ -174,12 +174,12 @@
     "section": "ADMINISTRATION",
     "question": "What is the implication of unsatisfactory conduct on promotion?",
     "options": [
-      "Equal opportunity based on merit",
       "Choosing the most suitable candidates",
       "Disqualification",
-      "Creditable success"
+      "Competitive merit",
+      "To assess suitability for higher responsibility"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "GEN-PQ-14",
@@ -188,12 +188,12 @@
     "section": "ADMINISTRATION",
     "question": "What is the role of performance records in promotion?",
     "options": [
-      "Disqualification",
+      "Selection from suitable candidates",
+      "Ability and competence to perform higher duties",
       "Evaluation of past duties",
-      "To select the best candidates",
-      "Directorate of Human Resources and Administration"
+      "Choosing the most suitable candidates"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "GEN-PQ-15",
@@ -202,9 +202,9 @@
     "section": "ADMINISTRATION",
     "question": "What does efficiency mean in public service assessment?",
     "options": [
-      "Ability and competence to perform higher duties",
       "Federal Airports Authority of Nigeria",
-      "To reward effort and merit",
+      "Satisfactory conduct and performance",
+      "To select the best candidates",
       "Ability to perform duties effectively"
     ],
     "correctIndex": 3
@@ -216,12 +216,12 @@
     "section": "ADMINISTRATION",
     "question": "What does credibility mean in promotion examination success?",
     "options": [
-      "Equal opportunity based on merit",
       "Genuine and acceptable performance",
-      "Promotion examination",
-      "Satisfactory conduct and performance"
+      "Disqualification",
+      "Qualification, conduct, and performance",
+      "Public Service Rules"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "GEN-PQ-17",
@@ -230,12 +230,12 @@
     "section": "ADMINISTRATION",
     "question": "What is the function of HR in promotion processes?",
     "options": [
-      "Promotion examination",
-      "Choosing the most suitable candidates",
-      "Coordination and administration",
-      "Evaluation of past duties"
+      "Satisfactory conduct and performance",
+      "Ability to perform duties effectively",
+      "To assess suitability for higher responsibility",
+      "Coordination and administration"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "GEN-PQ-18",
@@ -244,12 +244,12 @@
     "section": "ADMINISTRATION",
     "question": "What year edition is the FAAN promotion syllabus?",
     "options": [
-      "2026 Edition",
-      "To reward effort and merit",
-      "Federal Airports Authority of Nigeria",
-      "Genuine and acceptable performance"
+      "Choosing the most suitable candidates",
+      "To select the best candidates",
+      "Qualification, conduct, and performance",
+      "2026 Edition"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
     "id": "GEN-PQ-19",
@@ -258,12 +258,12 @@
     "section": "ADMINISTRATION",
     "question": "What authority organizes FAAN staff promotion exams?",
     "options": [
+      "Directorate of Human Resources and Administration",
       "Federal Airports Authority of Nigeria",
-      "2026 Edition",
-      "Competitive merit",
-      "Disqualification"
+      "Ability to carry out assigned duties",
+      "Qualification, conduct, and performance"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "GEN-PQ-20",
@@ -272,12 +272,12 @@
     "section": "ADMINISTRATION",
     "question": "What is fairness in promotion?",
     "options": [
-      "Coordination and administration",
-      "Genuine and acceptable performance",
       "Equal opportunity based on merit",
-      "Ability and competence to perform higher duties"
+      "To reward effort and merit",
+      "Genuine and acceptable performance",
+      "Evaluation of past duties"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "GEN-PQ-21",
@@ -286,10 +286,10 @@
     "section": "ADMINISTRATION",
     "question": "What determines eligibility for promotion?",
     "options": [
-      "Demonstrated competence and performance",
+      "Satisfactory service record MACHINERY OF GOVERNMENT IN NIGERIA (26–45)",
       "Qualification, conduct, and performance",
-      "Coordination and administration",
-      "Promotion examination"
+      "2026 Edition",
+      "Public Service Rules"
     ],
     "correctIndex": 1
   },
@@ -300,12 +300,12 @@
     "section": "ADMINISTRATION",
     "question": "What does competence refer to?",
     "options": [
-      "Ability to carry out assigned duties",
-      "Selection from suitable candidates",
       "Competitive merit",
-      "Qualification, conduct, and performance"
+      "Ability to carry out assigned duties",
+      "Genuine and acceptable performance",
+      "Equal opportunity based on merit"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "GEN-PQ-23",
@@ -314,12 +314,12 @@
     "section": "ADMINISTRATION",
     "question": "What does selection imply in promotion?",
     "options": [
-      "Creditable success",
-      "Qualification, conduct, and performance",
       "Choosing the most suitable candidates",
-      "Competitive merit"
+      "Ability and competence to perform higher duties",
+      "Satisfactory service record MACHINERY OF GOVERNMENT IN NIGERIA (26–45)",
+      "Demonstrated competence and performance"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "GEN-PQ-24",
@@ -328,12 +328,12 @@
     "section": "ADMINISTRATION",
     "question": "What is the main aim of competitive promotion?",
     "options": [
-      "Creditable success",
-      "Ability to perform duties effectively",
-      "To select the best candidates",
-      "2026 Edition"
+      "Coordination and administration",
+      "Promotion examination",
+      "Satisfactory conduct and performance",
+      "To select the best candidates"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "GEN-PQ-25",
@@ -342,12 +342,12 @@
     "section": "ADMINISTRATION",
     "question": "What is required alongside examination for promotion?",
     "options": [
-      "Promotion examination",
-      "Evaluation of past duties",
       "Choosing the most suitable candidates",
-      "Satisfactory service record MACHINERY OF GOVERNMENT IN NIGERIA (26–45)"
+      "Satisfactory service record MACHINERY OF GOVERNMENT IN NIGERIA (26–45)",
+      "To reward effort and merit",
+      "To select the best candidates"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
     "id": "GEN-PQ-26",
@@ -356,12 +356,12 @@
     "section": "MACHINERY OF GOVERNMENT IN NIGERIA",
     "question": "What does “Machinery of Government” refer to?",
     "options": [
+      "The Federal Government",
       "Structure and functioning of government organs",
-      "Productivity award",
-      "The President",
-      "Participation and accountability"
+      "Separation of powers",
+      "Excellence"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "GEN-PQ-27",
@@ -370,9 +370,9 @@
     "section": "MACHINERY OF GOVERNMENT IN NIGERIA",
     "question": "How many major organs of government are identified in Nigeria?",
     "options": [
-      "Participation and accountability",
-      "Commander of the Order of the Niger",
-      "Excellence",
+      "Member of the Order of the Niger",
+      "Legislature",
+      "Recognition of service and contribution",
       "Three"
     ],
     "correctIndex": 3
@@ -384,12 +384,12 @@
     "section": "MACHINERY OF GOVERNMENT IN NIGERIA",
     "question": "What are the three major organs of government?",
     "options": [
-      "Executive",
-      "Grand Commander of the Order of the Federal Republic",
-      "Presidential system",
-      "Executive, Legislature, Judiciary"
+      "Executive, Legislature, Judiciary",
+      "National Assembly",
+      "Three",
+      "Law and policy"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "id": "GEN-PQ-29",
@@ -398,12 +398,12 @@
     "section": "MACHINERY OF GOVERNMENT IN NIGERIA",
     "question": "What system of government operates in Nigeria?",
     "options": [
-      "Commander of the Order of the Niger",
-      "Commitment and dedication",
-      "Separation of powers",
-      "Presidential system"
+      "Presidential system",
+      "Executive",
+      "CFR",
+      "Officer of the Order of the Federal Republic"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "id": "GEN-PQ-30",
@@ -412,12 +412,12 @@
     "section": "MACHINERY OF GOVERNMENT IN NIGERIA",
     "question": "What organ of government implements laws?",
     "options": [
-      "Administration of public affairs",
-      "Executive",
-      "Recognition of service and contribution",
-      "Interpretation and application of laws"
+      "Federal Republic Medal",
+      "Grand Commander of the Order of the Federal Republic",
+      "Commander of the Order of the Federal Republic",
+      "Executive"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "GEN-PQ-31",
@@ -426,12 +426,12 @@
     "section": "MACHINERY OF GOVERNMENT IN NIGERIA",
     "question": "What organ of government makes laws?",
     "options": [
-      "Excellence",
-      "Officer of the Order of the Niger",
       "Legislature",
-      "Productivity award"
+      "Member of the Order of the Niger",
+      "Administration of public affairs",
+      "The President"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "GEN-PQ-32",
@@ -440,12 +440,12 @@
     "section": "MACHINERY OF GOVERNMENT IN NIGERIA",
     "question": "What organ of government interprets laws?",
     "options": [
-      "Officer of the Order of the Niger",
-      "Judiciary",
-      "Interpretation and application of laws",
-      "Officer of the Order of the Federal Republic"
+      "Rule of law",
+      "Grand Commander of the Order of the Federal Republic",
+      "Legislature",
+      "Judiciary"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "GEN-PQ-33",
@@ -454,12 +454,12 @@
     "section": "MACHINERY OF GOVERNMENT IN NIGERIA",
     "question": "What feature distinguishes the presidential system?",
     "options": [
-      "Separation of powers",
-      "Rule of law",
-      "Excellence",
-      "Member of the Order of the Niger"
+      "Judiciary",
+      "Law and policy",
+      "National Assembly",
+      "Separation of powers"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
     "id": "GEN-PQ-34",
@@ -468,12 +468,12 @@
     "section": "MACHINERY OF GOVERNMENT IN NIGERIA",
     "question": "What ensures independence among government organs?",
     "options": [
-      "Legislature",
-      "Separation of powers",
+      "Officer of the Order of the Niger",
       "Member of the Order of the Federal Republic",
-      "Service delivery"
+      "Separation of powers",
+      "Recognition of service and contribution"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "GEN-PQ-35",
@@ -482,9 +482,9 @@
     "section": "MACHINERY OF GOVERNMENT IN NIGERIA",
     "question": "What promotes cooperation among government organs?",
     "options": [
-      "Interpretation and application of laws",
-      "Federal Republic Medal",
-      "Member of the Order of the Niger",
+      "Recognition of service and contribution",
+      "The Federal Government",
+      "Officer of the Order of the Niger",
       "Checks and balances"
     ],
     "correctIndex": 3
@@ -496,12 +496,12 @@
     "section": "MACHINERY OF GOVERNMENT IN NIGERIA",
     "question": "Who heads the Executive arm in Nigeria?",
     "options": [
-      "Judiciary",
-      "National Assembly",
       "The President",
-      "Heads of State and statesmen"
+      "The Federal Government",
+      "CFR",
+      "Presidential system"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "GEN-PQ-37",
@@ -510,12 +510,12 @@
     "section": "MACHINERY OF GOVERNMENT IN NIGERIA",
     "question": "What body represents the Legislature at the federal level?",
     "options": [
+      "Administration of public affairs",
+      "Separation of powers",
       "National Assembly",
-      "Judiciary",
-      "Officer of the Order of the Niger",
       "Member of the Order of the Federal Republic"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
     "id": "GEN-PQ-38",
@@ -524,10 +524,10 @@
     "section": "MACHINERY OF GOVERNMENT IN NIGERIA",
     "question": "What is the function of the Judiciary?",
     "options": [
-      "Excellence",
-      "Grand Commander of the Order of the Niger",
+      "Contribution to national development ACRONYMS, AUDIT & ADMINISTRATIVE",
+      "Federal Republic Medal",
       "Interpretation and application of laws",
-      "Commander of the Order of the Federal Republic"
+      "Judiciary"
     ],
     "correctIndex": 2
   },
@@ -538,12 +538,12 @@
     "section": "MACHINERY OF GOVERNMENT IN NIGERIA",
     "question": "What ensures accountability among government arms?",
     "options": [
-      "Participation and accountability",
-      "Interpretation and application of laws",
       "Checks and balances",
-      "Officer of the Order of the Federal Republic"
+      "Judiciary",
+      "Merit and service",
+      "Interpretation and application of laws"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "GEN-PQ-40",
@@ -552,12 +552,12 @@
     "section": "MACHINERY OF GOVERNMENT IN NIGERIA",
     "question": "What principle prevents abuse of power?",
     "options": [
-      "Separation of powers",
-      "CFR",
-      "The Federal Government",
-      "National Assembly"
+      "Merit and service",
+      "Participation and accountability",
+      "National Productivity Order of Merit",
+      "Separation of powers"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
     "id": "GEN-PQ-41",
@@ -566,12 +566,12 @@
     "section": "MACHINERY OF GOVERNMENT IN NIGERIA",
     "question": "What does governance involve?",
     "options": [
-      "Executive, Legislature, Judiciary",
-      "GCFR",
-      "Administration of public affairs",
-      "Commitment and dedication"
+      "Officer of the Order of the Federal Republic",
+      "National Productivity Order of Merit",
+      "Grand Commander of the Order of the Niger",
+      "Administration of public affairs"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "GEN-PQ-42",
@@ -580,10 +580,10 @@
     "section": "MACHINERY OF GOVERNMENT IN NIGERIA",
     "question": "What ensures stability in governance?",
     "options": [
-      "Law and policy",
+      "Grand Commander of the Order of the Niger",
       "Rule of law",
       "Legislature",
-      "Excellence"
+      "The President"
     ],
     "correctIndex": 1
   },
@@ -595,9 +595,9 @@
     "question": "What is the role of public institutions?",
     "options": [
       "Service delivery",
-      "The Federal Government",
-      "Commander of the Order of the Federal Republic",
-      "Merit and service"
+      "Member of the Order of the Niger",
+      "National Productivity Order of Merit",
+      "Contribution to national development ACRONYMS, AUDIT & ADMINISTRATIVE"
     ],
     "correctIndex": 0
   },
@@ -608,12 +608,12 @@
     "section": "MACHINERY OF GOVERNMENT IN NIGERIA",
     "question": "What does democracy emphasize in governance?",
     "options": [
-      "Member of the Order of the Niger",
-      "Structure and functioning of government organs",
-      "Federal Republic Medal",
-      "Participation and accountability"
+      "Recognition of service and contribution",
+      "The Federal Government",
+      "Participation and accountability",
+      "Contribution to national development ACRONYMS, AUDIT & ADMINISTRATIVE"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
     "id": "GEN-PQ-45",
@@ -622,10 +622,10 @@
     "section": "MACHINERY OF GOVERNMENT IN NIGERIA",
     "question": "What is the foundation of public administration?",
     "options": [
-      "Excellence",
+      "Separation of powers",
       "Law and policy",
-      "GCFR",
-      "Commitment and dedication"
+      "Member of the Order of the Federal Republic",
+      "Contribution to national development ACRONYMS, AUDIT & ADMINISTRATIVE"
     ],
     "correctIndex": 1
   },
@@ -636,12 +636,12 @@
     "section": "MACHINERY OF GOVERNMENT IN NIGERIA",
     "question": "What does GCFR stand for?",
     "options": [
-      "Excellence",
+      "Productivity award",
+      "Member of the Order of the Niger",
       "Grand Commander of the Order of the Federal Republic",
-      "Judiciary",
-      "Three"
+      "Excellence"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "GEN-PQ-47",
@@ -665,9 +665,9 @@
     "question": "What does GCON stand for?",
     "options": [
       "Grand Commander of the Order of the Niger",
-      "Member of the Order of the Federal Republic",
-      "Productivity award",
-      "CFR"
+      "Federal Republic Medal",
+      "Merit and service",
+      "Service delivery"
     ],
     "correctIndex": 0
   },
@@ -678,12 +678,12 @@
     "section": "MACHINERY OF GOVERNMENT IN NIGERIA",
     "question": "What does CFR stand for?",
     "options": [
+      "Excellence",
       "Commander of the Order of the Federal Republic",
-      "The President",
-      "Checks and balances",
-      "Commitment and dedication"
+      "National Productivity Order of Merit",
+      "Executive"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "GEN-PQ-50",
@@ -692,10 +692,10 @@
     "section": "MACHINERY OF GOVERNMENT IN NIGERIA",
     "question": "What does CON stand for?",
     "options": [
-      "Rule of law",
-      "Presidential system",
+      "CFR",
+      "Structure and functioning of government organs",
       "Commander of the Order of the Niger",
-      "National Productivity Order of Merit"
+      "Merit and service"
     ],
     "correctIndex": 2
   },
@@ -706,12 +706,12 @@
     "section": "MACHINERY OF GOVERNMENT IN NIGERIA",
     "question": "What does OFR stand for?",
     "options": [
-      "Commander of the Order of the Niger",
+      "Excellence",
+      "Separation of powers",
       "Officer of the Order of the Federal Republic",
-      "GCFR",
-      "The President"
+      "Commander of the Order of the Niger"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "GEN-PQ-52",
@@ -720,12 +720,12 @@
     "section": "MACHINERY OF GOVERNMENT IN NIGERIA",
     "question": "What does OON stand for?",
     "options": [
-      "Legislature",
-      "Structure and functioning of government organs",
-      "Rule of law",
-      "Officer of the Order of the Niger"
+      "Commander of the Order of the Federal Republic",
+      "Administration of public affairs",
+      "Officer of the Order of the Niger",
+      "Heads of State and statesmen"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
     "id": "GEN-PQ-53",
@@ -734,12 +734,12 @@
     "section": "MACHINERY OF GOVERNMENT IN NIGERIA",
     "question": "What does MFR stand for?",
     "options": [
-      "The Federal Government",
-      "Legislature",
-      "GCFR",
-      "Member of the Order of the Federal Republic"
+      "Presidential system",
+      "Contribution to national development ACRONYMS, AUDIT & ADMINISTRATIVE",
+      "Member of the Order of the Federal Republic",
+      "Separation of powers"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
     "id": "GEN-PQ-54",
@@ -748,12 +748,12 @@
     "section": "MACHINERY OF GOVERNMENT IN NIGERIA",
     "question": "What does MON stand for?",
     "options": [
-      "Commander of the Order of the Niger",
-      "Officer of the Order of the Federal Republic",
-      "Member of the Order of the Niger",
-      "Structure and functioning of government organs"
+      "Federal Republic Medal",
+      "National Productivity Order of Merit",
+      "Checks and balances",
+      "Member of the Order of the Niger"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "GEN-PQ-55",
@@ -762,10 +762,10 @@
     "section": "MACHINERY OF GOVERNMENT IN NIGERIA",
     "question": "What does FRM stand for?",
     "options": [
-      "Legislature",
+      "National Productivity Order of Merit",
       "Federal Republic Medal",
-      "GCFR",
-      "Judiciary"
+      "Three",
+      "Legislature"
     ],
     "correctIndex": 1
   },
@@ -776,9 +776,9 @@
     "section": "MACHINERY OF GOVERNMENT IN NIGERIA",
     "question": "What does NPOM stand for?",
     "options": [
-      "Officer of the Order of the Niger",
-      "Three",
-      "National Assembly",
+      "Executive",
+      "Judiciary",
+      "Excellence",
       "National Productivity Order of Merit"
     ],
     "correctIndex": 3
@@ -790,9 +790,9 @@
     "section": "MACHINERY OF GOVERNMENT IN NIGERIA",
     "question": "What is the purpose of national honours?",
     "options": [
-      "Contribution to national development ACRONYMS, AUDIT & ADMINISTRATIVE",
+      "Executive",
       "Recognition of service and contribution",
-      "Service delivery",
+      "Interpretation and application of laws",
       "Judiciary"
     ],
     "correctIndex": 1
@@ -804,12 +804,12 @@
     "section": "MACHINERY OF GOVERNMENT IN NIGERIA",
     "question": "Who confers national honours in Nigeria?",
     "options": [
-      "The Federal Government",
-      "Heads of State and statesmen",
-      "Federal Republic Medal",
-      "Officer of the Order of the Niger"
+      "The President",
+      "Judiciary",
+      "Commander of the Order of the Niger",
+      "The Federal Government"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
     "id": "GEN-PQ-59",
@@ -818,12 +818,12 @@
     "section": "MACHINERY OF GOVERNMENT IN NIGERIA",
     "question": "What category of honour is NPOM?",
     "options": [
-      "Grand Commander of the Order of the Federal Republic",
-      "Productivity award",
-      "Officer of the Order of the Niger",
-      "Separation of powers"
+      "Grand Commander of the Order of the Niger",
+      "Contribution to national development ACRONYMS, AUDIT & ADMINISTRATIVE",
+      "Separation of powers",
+      "Productivity award"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "GEN-PQ-60",
@@ -832,12 +832,12 @@
     "section": "MACHINERY OF GOVERNMENT IN NIGERIA",
     "question": "What do national honours recognize?",
     "options": [
-      "Commander of the Order of the Federal Republic",
-      "Legislature",
-      "Participation and accountability",
-      "Merit and service"
+      "Three",
+      "Commander of the Order of the Niger",
+      "Merit and service",
+      "Federal Republic Medal"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
     "id": "GEN-PQ-61",
@@ -846,12 +846,12 @@
     "section": "MACHINERY OF GOVERNMENT IN NIGERIA",
     "question": "What honour is reserved for exceptional national service?",
     "options": [
-      "Administration of public affairs",
-      "Service delivery",
       "GCFR",
-      "Heads of State and statesmen"
+      "Rule of law",
+      "Excellence",
+      "Law and policy"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "GEN-PQ-62",
@@ -860,12 +860,12 @@
     "section": "MACHINERY OF GOVERNMENT IN NIGERIA",
     "question": "What honour level follows GCON?",
     "options": [
-      "Presidential system",
+      "Participation and accountability",
+      "Judiciary",
       "CFR",
-      "Commitment and dedication",
-      "Administration of public affairs"
+      "Separation of powers"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "GEN-PQ-63",
@@ -874,12 +874,12 @@
     "section": "MACHINERY OF GOVERNMENT IN NIGERIA",
     "question": "What does national recognition encourage?",
     "options": [
-      "CFR",
-      "Participation and accountability",
-      "Separation of powers",
-      "Excellence"
+      "Judiciary",
+      "Excellence",
+      "Three",
+      "Separation of powers"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
     "id": "GEN-PQ-64",
@@ -888,12 +888,12 @@
     "section": "MACHINERY OF GOVERNMENT IN NIGERIA",
     "question": "What do honours promote in public service?",
     "options": [
-      "Commander of the Order of the Niger",
       "Commitment and dedication",
-      "National Productivity Order of Merit",
-      "Grand Commander of the Order of the Federal Republic"
+      "CFR",
+      "Member of the Order of the Federal Republic",
+      "Participation and accountability"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "GEN-PQ-65",
@@ -902,12 +902,12 @@
     "section": "MACHINERY OF GOVERNMENT IN NIGERIA",
     "question": "What is the basis for awarding honours?",
     "options": [
-      "Rule of law",
-      "Legislature",
-      "Member of the Order of the Niger",
-      "Contribution to national development ACRONYMS, AUDIT & ADMINISTRATIVE"
+      "Commander of the Order of the Federal Republic",
+      "Contribution to national development ACRONYMS, AUDIT & ADMINISTRATIVE",
+      "Federal Republic Medal",
+      "Law and policy"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
     "id": "GEN-PQ-66",
@@ -916,12 +916,12 @@
     "section": "TERMS",
     "question": "What does INEC stand for?",
     "options": [
-      "Local Purchase Order",
-      "Accountant General Office Auditors",
-      "Internal Auditors",
-      "Independent National Electoral Commission"
+      "Responsibility for actions",
+      "Adherence to rules",
+      "Independent National Electoral Commission",
+      "Internal Auditors"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
     "id": "GEN-PQ-67",
@@ -930,12 +930,12 @@
     "section": "TERMS",
     "question": "What year was INEC established according to the syllabus?",
     "options": [
+      "Proper use of resources",
+      "Official approval",
       "1999",
-      "Accountability and transparency",
-      "Adherence to rules",
-      "Official approval"
+      "Accountability and transparency"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
     "id": "GEN-PQ-68",
@@ -944,12 +944,12 @@
     "section": "TERMS",
     "question": "How many categories of auditors conduct stock-taking in FAAN?",
     "options": [
-      "1999",
-      "Openness in records",
+      "Ministry of Aviation Auditors",
       "Four",
-      "Independent National Electoral Commission"
+      "Physical verification of assets",
+      "Responsibility for actions"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "GEN-PQ-69",
@@ -958,12 +958,12 @@
     "section": "TERMS",
     "question": "Who are the first category of auditors in FAAN?",
     "options": [
-      "Four",
+      "Openness in records",
+      "Accountant General Office Auditors",
       "Internal Auditors",
-      "Regulation of expenditure",
-      "Physical verification of assets"
+      "Proper use of resources"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "GEN-PQ-70",
@@ -972,10 +972,10 @@
     "section": "TERMS",
     "question": "Who are the second category of auditors in FAAN?",
     "options": [
-      "Genuine reason",
-      "Auditor General Office Auditors",
+      "Adherence to rules",
+      "Accountability and transparency",
       "Accountant General Office Auditors",
-      "Proper use of resources"
+      "When an LPO expires before execution"
     ],
     "correctIndex": 2
   },
@@ -986,12 +986,12 @@
     "section": "TERMS",
     "question": "Who are the third category of auditors in FAAN?",
     "options": [
-      "When an LPO expires before execution",
-      "Internal Auditors",
       "Auditor General Office Auditors",
-      "Independent National Electoral Commission"
+      "Openness in records",
+      "Re-assigning a new date to an LPO or job order",
+      "Physical verification of assets"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "GEN-PQ-72",
@@ -1000,12 +1000,12 @@
     "section": "TERMS",
     "question": "Who are the fourth category of auditors in FAAN?",
     "options": [
-      "Ministry of Aviation Auditors",
-      "Independent National Electoral Commission",
-      "When an LPO expires before execution",
-      "Accountability and transparency"
+      "Auditor General Office Auditors",
+      "Genuine reason",
+      "1999",
+      "Ministry of Aviation Auditors"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
     "id": "GEN-PQ-73",
@@ -1014,12 +1014,12 @@
     "section": "TERMS",
     "question": "What is stock-taking?",
     "options": [
-      "Physical verification of assets",
-      "Openness in records",
       "Independent National Electoral Commission",
-      "Genuine reason"
+      "Auditor General Office Auditors",
+      "Physical verification of assets",
+      "Openness in records"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
     "id": "GEN-PQ-74",
@@ -1028,12 +1028,12 @@
     "section": "TERMS",
     "question": "What is the purpose of auditing?",
     "options": [
-      "Adherence to rules",
-      "Accountability and transparency",
+      "Physical verification of assets",
       "Re-assigning a new date to an LPO or job order",
-      "Proper use of resources"
+      "Accountability and transparency",
+      "Regulation of expenditure"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "GEN-PQ-75",
@@ -1042,12 +1042,12 @@
     "section": "TERMS",
     "question": "What does revalidation mean in FAAN administration?",
     "options": [
-      "Openness in records",
-      "Accountant General Office Auditors",
+      "Regulation of expenditure",
       "Re-assigning a new date to an LPO or job order",
+      "Auditor General Office Auditors",
       "Adherence to rules"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "GEN-PQ-76",
@@ -1056,12 +1056,12 @@
     "section": "TERMS",
     "question": "When is revalidation necessary?",
     "options": [
-      "Auditor General Office Auditors",
       "Regulation of expenditure",
       "When an LPO expires before execution",
-      "Accountant General Office Auditors"
+      "Four",
+      "Ministry of Aviation Auditors"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "GEN-PQ-77",
@@ -1070,10 +1070,10 @@
     "section": "TERMS",
     "question": "What must justify revalidation?",
     "options": [
-      "Auditor General Office Auditors",
+      "Accountability and transparency",
       "Genuine reason",
-      "1999",
-      "Physical verification of assets"
+      "Ministry of Aviation Auditors",
+      "Proper use of resources"
     ],
     "correctIndex": 1
   },
@@ -1084,12 +1084,12 @@
     "section": "TERMS",
     "question": "What document may require revalidation?",
     "options": [
-      "Genuine reason",
       "Proper use of resources",
-      "Accountability and transparency",
-      "Local Purchase Order"
+      "Local Purchase Order",
+      "Ministry of Aviation Auditors",
+      "Adherence to rules"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
     "id": "GEN-PQ-79",
@@ -1098,12 +1098,12 @@
     "section": "TERMS",
     "question": "What does LPO stand for?",
     "options": [
-      "Independent National Electoral Commission",
-      "Openness in records",
-      "Four",
-      "Local Purchase Order"
+      "Local Purchase Order",
+      "1999",
+      "Re-assigning a new date to an LPO or job order",
+      "Openness in records"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "id": "GEN-PQ-80",
@@ -1113,11 +1113,11 @@
     "question": "What does auditing ensure in FAAN?",
     "options": [
       "Four",
-      "Proper use of resources",
-      "Genuine reason",
-      "Internal Auditors"
+      "Independent National Electoral Commission",
+      "Internal Auditors",
+      "Proper use of resources"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "GEN-PQ-81",
@@ -1126,12 +1126,12 @@
     "section": "TERMS",
     "question": "What is accountability in administration?",
     "options": [
-      "Accountant General Office Auditors",
-      "Auditor General Office Auditors",
       "Four",
-      "Responsibility for actions"
+      "Responsibility for actions",
+      "Openness in records",
+      "Regulation of expenditure"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
     "id": "GEN-PQ-82",
@@ -1140,12 +1140,12 @@
     "section": "TERMS",
     "question": "What is transparency in auditing?",
     "options": [
-      "Openness in records",
-      "Local Purchase Order",
-      "Accountability and transparency",
-      "Auditor General Office Auditors"
+      "Accountant General Office Auditors",
+      "Auditor General Office Auditors",
+      "Four",
+      "Openness in records"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
     "id": "GEN-PQ-83",
@@ -1155,9 +1155,9 @@
     "question": "What is compliance in administration?",
     "options": [
       "Adherence to rules",
-      "Official approval",
-      "When an LPO expires before execution",
-      "Internal Auditors"
+      "Local Purchase Order",
+      "Accountability and transparency",
+      "Auditor General Office Auditors"
     ],
     "correctIndex": 0
   },
@@ -1168,12 +1168,12 @@
     "section": "TERMS",
     "question": "What is authorization in procurement?",
     "options": [
-      "Auditor General Office Auditors",
-      "Adherence to rules",
       "Official approval",
-      "Accountant General Office Auditors"
+      "Adherence to rules",
+      "When an LPO expires before execution",
+      "Internal Auditors"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "GEN-PQ-85",
@@ -1182,10 +1182,10 @@
     "section": "TERMS",
     "question": "What is financial control?",
     "options": [
-      "Openness in records",
-      "Four",
+      "Auditor General Office Auditors",
+      "Adherence to rules",
       "Regulation of expenditure",
-      "Proper use of resources"
+      "Accountant General Office Auditors"
     ],
     "correctIndex": 2
   },
@@ -1197,11 +1197,11 @@
     "question": "What are hazardous materials?",
     "options": [
       "Safety identification",
-      "Materials that are dangerous or harmful",
-      "Destruction of lives and property",
-      "Proper identification"
+      "Proper identification",
+      "Corrosive sign",
+      "Materials that are dangerous or harmful"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "GEN-PQ-87",
@@ -1210,12 +1210,12 @@
     "section": "HAZARDOUS MATERIALS & SAFETY",
     "question": "What risk do hazardous materials pose?",
     "options": [
-      "Oxidizer sign",
-      "Flammable sign",
-      "Risk reduction",
-      "Destruction of lives and property"
+      "Proper identification",
+      "Compliance with safety procedures",
+      "Destruction of lives and property",
+      "Flammable sign"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
     "id": "GEN-PQ-88",
@@ -1224,12 +1224,12 @@
     "section": "HAZARDOUS MATERIALS & SAFETY",
     "question": "What symbol indicates flammable material?",
     "options": [
-      "Injury and damage",
-      "Risk reduction",
-      "Materials that are dangerous or harmful",
-      "Flammable sign"
+      "Flammable sign",
+      "Corrosive sign",
+      "Blasting agent sign",
+      "Proper identification"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "id": "GEN-PQ-89",
@@ -1238,12 +1238,12 @@
     "section": "HAZARDOUS MATERIALS & SAFETY",
     "question": "What symbol indicates corrosive material?",
     "options": [
-      "Injury and damage",
-      "Warning and information",
+      "Accidents and losses",
       "Compliance with safety procedures",
-      "Corrosive sign"
+      "Corrosive sign",
+      "Materials that are dangerous or harmful"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
     "id": "GEN-PQ-90",
@@ -1252,12 +1252,12 @@
     "section": "HAZARDOUS MATERIALS & SAFETY",
     "question": "What symbol indicates combustible material?",
     "options": [
-      "Combustible sign",
-      "Oxidizer sign",
       "Injury and damage",
-      "Safety identification"
+      "Oxidizer sign",
+      "Compliance with safety procedures",
+      "Combustible sign"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
     "id": "GEN-PQ-91",
@@ -1266,12 +1266,12 @@
     "section": "HAZARDOUS MATERIALS & SAFETY",
     "question": "What symbol indicates oxidizing material?",
     "options": [
-      "Materials that are dangerous or harmful",
       "Oxidizer sign",
-      "Destruction of lives and property",
-      "Proper identification"
+      "Flammable sign",
+      "Blasting agent sign",
+      "Risk reduction"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "GEN-PQ-92",
@@ -1280,12 +1280,12 @@
     "section": "HAZARDOUS MATERIALS & SAFETY",
     "question": "What symbol indicates blasting agents?",
     "options": [
-      "Accidents and losses",
-      "Blasting agent sign",
-      "Injury and damage",
-      "Combustible sign"
+      "Materials that are dangerous or harmful",
+      "Safety identification",
+      "Oxidizer sign",
+      "Blasting agent sign"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "GEN-PQ-93",
@@ -1294,12 +1294,12 @@
     "section": "HAZARDOUS MATERIALS & SAFETY",
     "question": "Why must hazardous materials be labeled?",
     "options": [
-      "Materials that are dangerous or harmful",
       "Safety identification",
+      "Risk reduction",
       "Injury and damage",
-      "Compliance with safety procedures"
+      "Materials that are dangerous or harmful"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "GEN-PQ-94",
@@ -1308,12 +1308,12 @@
     "section": "HAZARDOUS MATERIALS & SAFETY",
     "question": "What is the first safety measure when handling hazardous materials?",
     "options": [
-      "Corrosive sign",
+      "Risk reduction",
+      "Accidents and losses",
       "Proper identification",
-      "To prevent accidents",
-      "Blasting agent sign"
+      "To prevent accidents"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "GEN-PQ-95",
@@ -1322,12 +1322,12 @@
     "section": "HAZARDOUS MATERIALS & SAFETY",
     "question": "Why must hazardous materials be handled carefully?",
     "options": [
-      "Risk reduction",
+      "To prevent accidents",
+      "Materials that are dangerous or harmful",
       "Blasting agent sign",
-      "Oxidizer sign",
-      "To prevent accidents"
+      "Corrosive sign"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "id": "GEN-PQ-96",
@@ -1336,12 +1336,12 @@
     "section": "HAZARDOUS MATERIALS & SAFETY",
     "question": "What is the role of safety signs?",
     "options": [
-      "Oxidizer sign",
+      "Flammable sign",
+      "Corrosive sign",
       "Warning and information",
-      "Compliance with safety procedures",
-      "Destruction of lives and property"
+      "Combustible sign"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "GEN-PQ-97",
@@ -1350,12 +1350,12 @@
     "section": "HAZARDOUS MATERIALS & SAFETY",
     "question": "What does improper handling of hazardous materials cause?",
     "options": [
-      "Injury and damage",
-      "Safety identification",
       "Destruction of lives and property",
-      "Warning and information"
+      "Flammable sign",
+      "Injury and damage",
+      "Accidents and losses"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
     "id": "GEN-PQ-98",
@@ -1364,10 +1364,10 @@
     "section": "HAZARDOUS MATERIALS & SAFETY",
     "question": "What ensures safe storage of hazardous materials?",
     "options": [
-      "To prevent accidents",
+      "Risk reduction",
       "Compliance with safety procedures",
-      "Proper identification",
-      "Flammable sign"
+      "Corrosive sign",
+      "To prevent accidents"
     ],
     "correctIndex": 1
   },
@@ -1378,12 +1378,12 @@
     "section": "HAZARDOUS MATERIALS & SAFETY",
     "question": "What is the purpose of hazard control?",
     "options": [
-      "Risk reduction",
-      "Safety identification",
       "Injury and damage",
-      "Flammable sign"
+      "Warning and information",
+      "Accidents and losses",
+      "Risk reduction"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
     "id": "GEN-PQ-100",
@@ -1392,12 +1392,12 @@
     "section": "HAZARDOUS MATERIALS & SAFETY",
     "question": "What does safety compliance prevent?",
     "options": [
+      "Proper identification",
       "Accidents and losses",
-      "Compliance with safety procedures",
-      "Safety identification",
-      "Risk reduction"
+      "To prevent accidents",
+      "Corrosive sign"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "MEC-PQ-1",
@@ -1406,12 +1406,12 @@
     "section": "MANAGEMENT & PLANNING",
     "question": "What is the first responsibility of a Level 10 mechanical officer during maintenance operations?",
     "options": [
-      "Continuous training",
       "Supervision and coordination of maintenance activities",
-      "Ensure compliance and efficiency",
-      "Condition-based maintenance"
+      "Frequent emergency repairs",
+      "Maintenance reports",
+      "SOP adherence"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "MEC-PQ-2",
@@ -1421,11 +1421,11 @@
     "question": "When multiple equipment failures occur simultaneously, what determines maintenance priority?",
     "options": [
       "Workload and equipment complexity",
+      "Disciplinary and retraining measures",
       "Safety and operational criticality",
-      "Deployment of standby equipment",
-      "Maintenance logbook"
+      "Timely management intervention"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "MEC-PQ-3",
@@ -1434,10 +1434,10 @@
     "section": "MANAGEMENT & PLANNING",
     "question": "What action should be taken when a subordinate carries out maintenance outside approved procedures?",
     "options": [
-      "SOP adherence",
-      "Inventory management",
+      "Staff competence and experience",
+      "Enforcement of safety procedures",
       "Stop the work and enforce compliance with SOP",
-      "Post-maintenance inspection SECTION B: ADVANCED ENGINES &"
+      "Impact on airport operations"
     ],
     "correctIndex": 2
   },
@@ -1448,12 +1448,12 @@
     "section": "MANAGEMENT & PLANNING",
     "question": "What maintenance strategy minimizes unplanned downtime for critical airport equipment?",
     "options": [
-      "Re-inspection and rectification",
-      "Inventory management",
-      "Monitoring compliance with FAAN standards",
-      "Preventive maintenance"
+      "Preventive maintenance",
+      "Safety and operational criticality",
+      "Emergency preparedness planning",
+      "Frequent emergency repairs"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "id": "MEC-PQ-5",
@@ -1462,9 +1462,9 @@
     "section": "MANAGEMENT & PLANNING",
     "question": "What document authorizes commencement of major mechanical maintenance work?",
     "options": [
-      "Coordinate with operations department",
-      "Enforcement of safety procedures",
-      "Escalate and initiate emergency procurement",
+      "Preventive maintenance",
+      "Maintenance reports",
+      "High-risk mechanical tasks",
       "Approved work order"
     ],
     "correctIndex": 3
@@ -1476,12 +1476,12 @@
     "section": "MANAGEMENT & PLANNING",
     "question": "What is the supervisor’s role after completion of maintenance work?",
     "options": [
-      "Verification and approval",
-      "Routine inspection",
-      "Re-inspection and rectification",
-      "Inspection and certification"
+      "Inspection and certification",
+      "Major corrective maintenance",
+      "Workload and equipment complexity",
+      "Management authorization"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "id": "MEC-PQ-7",
@@ -1490,10 +1490,10 @@
     "section": "MANAGEMENT & PLANNING",
     "question": "What maintenance approach involves forecasting component failure based on usage data?",
     "options": [
-      "Monitoring compliance with FAAN standards",
-      "Disciplinary and retraining measures",
+      "Ensure compliance and efficiency",
+      "Timely management intervention",
       "Predictive maintenance",
-      "Enforcement of safety procedures"
+      "Workload and equipment complexity"
     ],
     "correctIndex": 2
   },
@@ -1504,12 +1504,12 @@
     "section": "MANAGEMENT & PLANNING",
     "question": "What should a Level 10 officer do when spare parts are unavailable for critical repairs?",
     "options": [
-      "Predictive maintenance",
-      "Verification and approval",
-      "Maintenance logbook",
-      "Escalate and initiate emergency procurement"
+      "Coordinate with operations department",
+      "Timely component replacement",
+      "Escalate and initiate emergency procurement",
+      "Inspection and certification"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
     "id": "MEC-PQ-9",
@@ -1518,12 +1518,12 @@
     "section": "MANAGEMENT & PLANNING",
     "question": "What ensures continuity of airport operations during major mechanical repairs?",
     "options": [
+      "Coordinate rapid response",
       "Deployment of standby equipment",
-      "Post-maintenance inspection SECTION B: ADVANCED ENGINES &",
-      "Approved work order",
-      "High-risk mechanical tasks"
+      "Maintenance reports",
+      "Maintenance schedule"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "MEC-PQ-10",
@@ -1532,12 +1532,12 @@
     "section": "MANAGEMENT & PLANNING",
     "question": "What maintenance activity requires shutdown approval before execution?",
     "options": [
+      "Inventory management",
       "Major corrective maintenance",
-      "Functional testing and inspection",
-      "Preventive maintenance",
-      "Impact on airport operations"
+      "Equipment failure",
+      "Functional testing and inspection"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "MEC-PQ-11",
@@ -1546,12 +1546,12 @@
     "section": "MANAGEMENT & PLANNING",
     "question": "What is the supervisor’s duty during contractor maintenance activities?",
     "options": [
-      "Post-maintenance inspection SECTION B: ADVANCED ENGINES &",
-      "High-risk mechanical tasks",
-      "Monitoring compliance with FAAN standards",
-      "Workload and equipment complexity"
+      "Escalate and initiate emergency procurement",
+      "Supervision and coordination of maintenance activities",
+      "Timely component replacement",
+      "Monitoring compliance with FAAN standards"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "MEC-PQ-12",
@@ -1560,12 +1560,12 @@
     "section": "MANAGEMENT & PLANNING",
     "question": "What document records equipment service history?",
     "options": [
-      "Coordinate with operations department",
-      "Escalate and initiate emergency procurement",
-      "Maintenance logbook",
-      "Maintenance reports"
+      "Condition-based maintenance",
+      "Deployment of standby equipment",
+      "Safety and operational criticality",
+      "Maintenance logbook"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "MEC-PQ-13",
@@ -1574,10 +1574,10 @@
     "section": "MANAGEMENT & PLANNING",
     "question": "What management action reduces repeated equipment failure?",
     "options": [
-      "Major corrective maintenance",
+      "Inventory management",
       "Coordinate rapid response",
       "Root cause analysis",
-      "Disciplinary and retraining measures"
+      "Frequent emergency repairs"
     ],
     "correctIndex": 2
   },
@@ -1588,12 +1588,12 @@
     "section": "MANAGEMENT & PLANNING",
     "question": "What must be done before returning equipment to service after major repair?",
     "options": [
-      "Functional testing and inspection",
-      "Impact on airport operations",
-      "Post-maintenance inspection SECTION B: ADVANCED ENGINES &",
-      "Timely management intervention"
+      "Maintenance schedule",
+      "Inventory management",
+      "Re-inspection and rectification",
+      "Functional testing and inspection"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
     "id": "MEC-PQ-15",
@@ -1602,9 +1602,9 @@
     "section": "MANAGEMENT & PLANNING",
     "question": "What planning tool schedules maintenance activities?",
     "options": [
-      "Preventive maintenance",
-      "Maintenance reports",
-      "Frequent emergency repairs",
+      "Maintenance logbook",
+      "Functional testing and inspection",
+      "Inventory management",
       "Maintenance schedule"
     ],
     "correctIndex": 3
@@ -1616,12 +1616,12 @@
     "section": "MANAGEMENT & PLANNING",
     "question": "What indicates poor maintenance planning?",
     "options": [
-      "Predictive maintenance",
-      "Timely component replacement",
       "Frequent emergency repairs",
-      "Re-inspection and rectification"
+      "Maintenance logbook",
+      "Escalate and initiate emergency procurement",
+      "Coordinate rapid response"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "MEC-PQ-17",
@@ -1630,12 +1630,12 @@
     "section": "MANAGEMENT & PLANNING",
     "question": "What is the supervisor’s responsibility regarding safety compliance?",
     "options": [
-      "Timely component replacement",
-      "Root cause analysis",
-      "Monitoring compliance with FAAN standards",
-      "Enforcement of safety procedures"
+      "Major corrective maintenance",
+      "Enforcement of safety procedures",
+      "Stop the work and enforce compliance with SOP",
+      "Ensure compliance and efficiency"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
     "id": "MEC-PQ-18",
@@ -1644,9 +1644,9 @@
     "section": "MANAGEMENT & PLANNING",
     "question": "What maintenance practice improves equipment lifecycle management?",
     "options": [
-      "Management authorization",
-      "Staff competence and experience",
-      "Deployment of standby equipment",
+      "Ensure compliance and efficiency",
+      "Stop the work and enforce compliance with SOP",
+      "Timely management intervention",
       "Condition-based maintenance"
     ],
     "correctIndex": 3
@@ -1658,10 +1658,10 @@
     "section": "MANAGEMENT & PLANNING",
     "question": "What should be done if maintenance timelines affect flight operations?",
     "options": [
-      "Re-inspection and rectification",
-      "Root cause analysis",
+      "Safety and operational criticality",
+      "Functional testing and inspection",
       "Coordinate with operations department",
-      "Inspection and certification"
+      "Enforcement of safety procedures"
     ],
     "correctIndex": 2
   },
@@ -1673,9 +1673,9 @@
     "question": "What is the role of maintenance audits?",
     "options": [
       "Ensure compliance and efficiency",
-      "Timely management intervention",
-      "Major corrective maintenance",
-      "Workload and equipment complexity"
+      "Disciplinary and retraining measures",
+      "Re-inspection and rectification",
+      "Impact on airport operations"
     ],
     "correctIndex": 0
   },
@@ -1686,12 +1686,12 @@
     "section": "MANAGEMENT & PLANNING",
     "question": "What should guide assignment of maintenance tasks?",
     "options": [
-      "Disciplinary and retraining measures",
+      "Root cause analysis",
+      "Re-inspection and rectification",
       "Staff competence and experience",
-      "Deployment of standby equipment",
-      "Emergency preparedness planning"
+      "Frequent emergency repairs"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "MEC-PQ-22",
@@ -1700,12 +1700,12 @@
     "section": "MANAGEMENT & PLANNING",
     "question": "What is required before approving overtime maintenance work?",
     "options": [
-      "Enforcement of safety procedures",
-      "High-risk mechanical tasks",
-      "Root cause analysis",
-      "Management authorization"
+      "Inventory management",
+      "Management authorization",
+      "Proper handover documentation",
+      "Continuous training"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
     "id": "MEC-PQ-23",
@@ -1714,12 +1714,12 @@
     "section": "MANAGEMENT & PLANNING",
     "question": "What action should follow repeated safety violations by staff?",
     "options": [
-      "Functional testing and inspection",
-      "Major corrective maintenance",
-      "Disciplinary and retraining measures",
-      "Emergency preparedness planning"
+      "Monitoring compliance with FAAN standards",
+      "Proper handover documentation",
+      "Management authorization",
+      "Disciplinary and retraining measures"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "MEC-PQ-24",
@@ -1729,9 +1729,9 @@
     "question": "What planning factor ensures availability of spare parts?",
     "options": [
       "Inventory management",
-      "Timely component replacement",
-      "Functional testing and inspection",
-      "Preventive maintenance"
+      "Post-maintenance inspection SECTION B: ADVANCED ENGINES &",
+      "Ensure compliance and efficiency",
+      "Functional testing and inspection"
     ],
     "correctIndex": 0
   },
@@ -1742,12 +1742,12 @@
     "section": "MANAGEMENT & PLANNING",
     "question": "What is the supervisor’s duty during emergency breakdowns?",
     "options": [
-      "Coordinate rapid response",
-      "Timely management intervention",
-      "Emergency preparedness planning",
-      "Functional testing and inspection"
+      "Safety and operational criticality",
+      "Verification and approval",
+      "Condition-based maintenance",
+      "Coordinate rapid response"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
     "id": "MEC-PQ-26",
@@ -1756,10 +1756,10 @@
     "section": "MANAGEMENT & PLANNING",
     "question": "What maintenance decision reduces long-term costs?",
     "options": [
-      "Workload and equipment complexity",
-      "Re-inspection and rectification",
+      "Post-maintenance inspection SECTION B: ADVANCED ENGINES &",
+      "Disciplinary and retraining measures",
       "Timely component replacement",
-      "Condition-based maintenance"
+      "Workload and equipment complexity"
     ],
     "correctIndex": 2
   },
@@ -1770,12 +1770,12 @@
     "section": "MANAGEMENT & PLANNING",
     "question": "What document supports accountability in maintenance supervision?",
     "options": [
-      "Maintenance schedule",
-      "SOP adherence",
+      "Timely management intervention",
       "Maintenance reports",
-      "Disciplinary and retraining measures"
+      "Frequent emergency repairs",
+      "Ensure compliance and efficiency"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "MEC-PQ-28",
@@ -1785,9 +1785,9 @@
     "question": "What is the risk of deferred maintenance?",
     "options": [
       "Equipment failure",
-      "Maintenance schedule",
-      "Workload and equipment complexity",
-      "Impact on airport operations"
+      "Deployment of standby equipment",
+      "Emergency preparedness planning",
+      "Maintenance schedule"
     ],
     "correctIndex": 0
   },
@@ -1798,12 +1798,12 @@
     "section": "MANAGEMENT & PLANNING",
     "question": "What ensures standardization of maintenance activities?",
     "options": [
-      "Deployment of standby equipment",
-      "Re-inspection and rectification",
+      "Inspection and certification",
       "SOP adherence",
-      "Monitoring compliance with FAAN standards"
+      "High-risk mechanical tasks",
+      "Disciplinary and retraining measures"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "MEC-PQ-30",
@@ -1812,12 +1812,12 @@
     "section": "MANAGEMENT & PLANNING",
     "question": "What action improves staff technical performance?",
     "options": [
-      "Maintenance logbook",
-      "Safety and operational criticality",
-      "Stop the work and enforce compliance with SOP",
-      "Continuous training"
+      "Workload and equipment complexity",
+      "Continuous training",
+      "Re-inspection and rectification",
+      "Routine inspection"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
     "id": "MEC-PQ-31",
@@ -1826,12 +1826,12 @@
     "section": "MANAGEMENT & PLANNING",
     "question": "What determines maintenance manpower requirements?",
     "options": [
-      "Workload and equipment complexity",
-      "Timely management intervention",
-      "Enforcement of safety procedures",
-      "Root cause analysis"
+      "Stop the work and enforce compliance with SOP",
+      "Condition-based maintenance",
+      "Post-maintenance inspection SECTION B: ADVANCED ENGINES &",
+      "Workload and equipment complexity"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
     "id": "MEC-PQ-32",
@@ -1840,9 +1840,9 @@
     "section": "MANAGEMENT & PLANNING",
     "question": "What is the supervisor’s role in equipment commissioning?",
     "options": [
-      "Coordinate with operations department",
       "Monitoring compliance with FAAN standards",
-      "Approved work order",
+      "Deployment of standby equipment",
+      "Staff competence and experience",
       "Verification and approval"
     ],
     "correctIndex": 3
@@ -1854,12 +1854,12 @@
     "section": "MANAGEMENT & PLANNING",
     "question": "What maintenance practice improves equipment reliability?",
     "options": [
+      "Coordinate rapid response",
+      "Management authorization",
       "Routine inspection",
-      "Inventory management",
-      "Stop the work and enforce compliance with SOP",
-      "Verification and approval"
+      "Re-inspection and rectification"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
     "id": "MEC-PQ-34",
@@ -1868,10 +1868,10 @@
     "section": "MANAGEMENT & PLANNING",
     "question": "What action should follow failure during test run?",
     "options": [
-      "Coordinate rapid response",
-      "Verification and approval",
+      "Emergency preparedness planning",
+      "Stop the work and enforce compliance with SOP",
       "Re-inspection and rectification",
-      "Functional testing and inspection"
+      "Inventory management"
     ],
     "correctIndex": 2
   },
@@ -1882,12 +1882,12 @@
     "section": "MANAGEMENT & PLANNING",
     "question": "What is the role of escalation procedures?",
     "options": [
-      "Maintenance reports",
-      "Post-maintenance inspection SECTION B: ADVANCED ENGINES &",
-      "Safety and operational criticality",
-      "Timely management intervention"
+      "Equipment failure",
+      "Preventive maintenance",
+      "Timely management intervention",
+      "Supervision and coordination of maintenance activities"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
     "id": "MEC-PQ-36",
@@ -1896,12 +1896,12 @@
     "section": "MANAGEMENT & PLANNING",
     "question": "What ensures coordination between shifts?",
     "options": [
-      "Predictive maintenance",
-      "Enforcement of safety procedures",
-      "SOP adherence",
-      "Proper handover documentation"
+      "Approved work order",
+      "Monitoring compliance with FAAN standards",
+      "Proper handover documentation",
+      "High-risk mechanical tasks"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
     "id": "MEC-PQ-37",
@@ -1910,10 +1910,10 @@
     "section": "MANAGEMENT & PLANNING",
     "question": "What maintenance activity requires risk assessment?",
     "options": [
-      "Equipment failure",
+      "Escalate and initiate emergency procurement",
       "High-risk mechanical tasks",
-      "Maintenance schedule",
-      "Predictive maintenance"
+      "Workload and equipment complexity",
+      "Major corrective maintenance"
     ],
     "correctIndex": 1
   },
@@ -1924,12 +1924,12 @@
     "section": "MANAGEMENT & PLANNING",
     "question": "What management practice improves response time?",
     "options": [
+      "Preventive maintenance",
       "Emergency preparedness planning",
-      "Verification and approval",
-      "Enforcement of safety procedures",
-      "Stop the work and enforce compliance with SOP"
+      "Proper handover documentation",
+      "Timely component replacement"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "MEC-PQ-39",
@@ -1938,12 +1938,12 @@
     "section": "MANAGEMENT & PLANNING",
     "question": "What determines equipment criticality classification?",
     "options": [
-      "Stop the work and enforce compliance with SOP",
+      "Inspection and certification",
+      "Timely management intervention",
       "Impact on airport operations",
-      "Approved work order",
-      "Disciplinary and retraining measures"
+      "Frequent emergency repairs"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "MEC-PQ-40",
@@ -1952,12 +1952,12 @@
     "section": "MANAGEMENT & PLANNING",
     "question": "What supervisory action ensures quality maintenance?",
     "options": [
-      "Frequent emergency repairs",
-      "Verification and approval",
-      "Disciplinary and retraining measures",
-      "Post-maintenance inspection SECTION B: ADVANCED ENGINES &"
+      "Maintenance logbook",
+      "Major corrective maintenance",
+      "Post-maintenance inspection SECTION B: ADVANCED ENGINES &",
+      "Condition-based maintenance"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
     "id": "MEC-PQ-41",
@@ -1966,9 +1966,9 @@
     "section": "GENERATORS",
     "question": "What supervisory action is required when generator load exceeds rated capacity?",
     "options": [
-      "Comprehensive cooling system audit",
-      "Operating within rated limits",
-      "Fuel quality control",
+      "Protective relays",
+      "Regular test runs",
+      "Proper ventilation",
       "Immediate load reduction"
     ],
     "correctIndex": 3
@@ -1980,12 +1980,12 @@
     "section": "GENERATORS",
     "question": "What indicates poor combustion in diesel generators?",
     "options": [
-      "Availability of critical spares",
-      "Excessive exhaust smoke",
-      "Accelerated engine wear",
-      "Load acceptance test SECTION C: HVAC, CHILLERS & TERMINAL"
+      "Critical oil pressure loss",
+      "Poor cooling or altitude effects",
+      "Isolate and troubleshoot system",
+      "Excessive exhaust smoke"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "MEC-PQ-43",
@@ -1994,12 +1994,12 @@
     "section": "GENERATORS",
     "question": "What fault may cause frequent generator tripping under load?",
     "options": [
+      "Alignment and balancing",
       "Overload or governor malfunction",
-      "Comprehensive cooling system audit",
-      "Critical oil pressure loss",
-      "Battery or starter issues"
+      "Seal failure",
+      "Carbon build-up"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "MEC-PQ-44",
@@ -2009,9 +2009,9 @@
     "question": "What should be inspected if generator voltage fluctuates?",
     "options": [
       "Alternator and AVR",
-      "Poor combustion efficiency",
-      "Fuel line inspection",
-      "Excessive exhaust smoke"
+      "Seal failure",
+      "Accelerated engine wear",
+      "Availability of critical spares"
     ],
     "correctIndex": 0
   },
@@ -2022,12 +2022,12 @@
     "section": "GENERATORS",
     "question": "What maintenance practice ensures generator readiness?",
     "options": [
-      "Enforce operating limits",
       "Periodic load testing",
-      "Alignment and balancing",
-      "Ensure manufacturer specifications compliance"
+      "Service history log",
+      "Excessive exhaust smoke",
+      "Compression testing"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "MEC-PQ-46",
@@ -2036,12 +2036,12 @@
     "section": "GENERATORS",
     "question": "What is the effect of prolonged low-load generator operation?",
     "options": [
+      "Proper ventilation",
       "Carbon build-up",
-      "Leak inspection",
-      "Regular test runs",
-      "Proper ventilation"
+      "Availability of critical spares",
+      "Auto-start control system"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "MEC-PQ-47",
@@ -2051,9 +2051,9 @@
     "question": "What corrective action addresses repeated starter motor failure?",
     "options": [
       "Electrical system inspection",
-      "Poor cooling or altitude effects",
-      "Power failure affecting operations",
-      "Excessive exhaust smoke"
+      "Operator training",
+      "Ensure cooling system efficiency",
+      "Poor combustion efficiency"
     ],
     "correctIndex": 0
   },
@@ -2064,10 +2064,10 @@
     "section": "GENERATORS",
     "question": "What supervisory decision prevents generator overheating?",
     "options": [
-      "Operating within rated limits",
-      "Periodic load testing",
+      "Auto-start control system",
+      "Battery or starter issues",
       "Ensure cooling system efficiency",
-      "Enforce operating limits"
+      "Readiness assurance"
     ],
     "correctIndex": 2
   },
@@ -2078,10 +2078,10 @@
     "section": "GENERATORS",
     "question": "What fault leads to abnormal engine vibration?",
     "options": [
-      "Fuel injection problems",
+      "Regular fuel filtration",
       "Misalignment or worn mountings",
-      "Critical oil pressure loss",
-      "Bearing inspection and lubrication"
+      "Compression testing",
+      "Oil pressure"
     ],
     "correctIndex": 1
   },
@@ -2092,12 +2092,12 @@
     "section": "GENERATORS",
     "question": "What condition requires immediate generator shutdown?",
     "options": [
-      "Operator training",
       "Critical oil pressure loss",
-      "Isolate and troubleshoot system",
-      "Reduced performance"
+      "Protective relays",
+      "Excessive exhaust smoke",
+      "Load acceptance test SECTION C: HVAC, CHILLERS & TERMINAL"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "MEC-PQ-51",
@@ -2106,10 +2106,10 @@
     "section": "GENERATORS",
     "question": "What maintenance activity reduces fuel system contamination?",
     "options": [
-      "Restricted airflow",
+      "Immediate load reduction",
       "Regular fuel filtration",
-      "Readiness assurance",
-      "Routine inspection"
+      "Bearing inspection and lubrication",
+      "Gradual load changes"
     ],
     "correctIndex": 1
   },
@@ -2121,8 +2121,8 @@
     "question": "What should be done when generator synchronization fails?",
     "options": [
       "Isolate and troubleshoot system",
-      "Reduced performance",
-      "Enforce operating limits",
+      "Ensure cooling system efficiency",
+      "Poor cooling or altitude effects",
       "Fuel injection problems"
     ],
     "correctIndex": 0
@@ -2134,9 +2134,9 @@
     "section": "GENERATORS",
     "question": "What is the effect of delayed oil change intervals?",
     "options": [
-      "Readiness assurance",
-      "Comprehensive cooling system audit",
-      "Load acceptance test SECTION C: HVAC, CHILLERS & TERMINAL",
+      "Regular fuel filtration",
+      "Service history log",
+      "Gradual load changes",
       "Accelerated engine wear"
     ],
     "correctIndex": 3
@@ -2148,12 +2148,12 @@
     "section": "GENERATORS",
     "question": "What inspection confirms engine mechanical integrity?",
     "options": [
-      "Compression testing",
-      "Poor combustion efficiency",
-      "Regular test runs",
-      "Accelerated engine wear"
+      "Operator training",
+      "Load acceptance test SECTION C: HVAC, CHILLERS & TERMINAL",
+      "Critical oil pressure loss",
+      "Compression testing"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
     "id": "MEC-PQ-55",
@@ -2162,10 +2162,10 @@
     "section": "GENERATORS",
     "question": "What fault causes hard starting in diesel engines?",
     "options": [
-      "Poor combustion efficiency",
+      "Restricted airflow",
       "Fuel injection problems",
-      "Reduced performance",
-      "Gradual load changes"
+      "Seal failure",
+      "Bearing inspection and lubrication"
     ],
     "correctIndex": 1
   },
@@ -2176,9 +2176,9 @@
     "section": "GENERATORS",
     "question": "What supervisory action ensures generator safety compliance?",
     "options": [
-      "Fuel quality control",
-      "Regular fuel filtration",
-      "Regular test runs",
+      "Ensure cooling system efficiency",
+      "Comprehensive cooling system audit",
+      "Bearing inspection and lubrication",
       "Enforce operating limits"
     ],
     "correctIndex": 3
@@ -2190,12 +2190,12 @@
     "section": "GENERATORS",
     "question": "What maintenance decision minimizes generator downtime?",
     "options": [
-      "Periodic load testing",
-      "Regular fuel filtration",
-      "Availability of critical spares",
-      "Operating within rated limits"
+      "Overload or governor malfunction",
+      "Service history log",
+      "Operator training",
+      "Availability of critical spares"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "MEC-PQ-58",
@@ -2204,10 +2204,10 @@
     "section": "GENERATORS",
     "question": "What system protects generators from overload damage?",
     "options": [
-      "Electrical system inspection",
+      "Load acceptance test SECTION C: HVAC, CHILLERS & TERMINAL",
       "Protective relays",
-      "Comprehensive cooling system audit",
-      "Ensure cooling system efficiency"
+      "Readiness assurance",
+      "Tension inspection"
     ],
     "correctIndex": 1
   },
@@ -2218,12 +2218,12 @@
     "section": "GENERATORS",
     "question": "What fault may cause high exhaust temperature?",
     "options": [
-      "Enforce operating limits",
-      "Isolate and troubleshoot system",
-      "Operator training",
-      "Restricted airflow"
+      "Alternator and AVR",
+      "Restricted airflow",
+      "Governor malfunction",
+      "Enforce operating limits"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
     "id": "MEC-PQ-60",
@@ -2232,12 +2232,12 @@
     "section": "GENERATORS",
     "question": "What action should follow repeated engine overheating incidents?",
     "options": [
-      "Alignment and balancing",
+      "Oil pressure",
+      "Critical oil pressure loss",
       "Comprehensive cooling system audit",
-      "Load acceptance test SECTION C: HVAC, CHILLERS & TERMINAL",
-      "Auto-start control system"
+      "Fuel quality control"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "MEC-PQ-61",
@@ -2246,9 +2246,9 @@
     "section": "GENERATORS",
     "question": "What operational practice extends engine life?",
     "options": [
-      "Alternator and AVR",
-      "Load acceptance test SECTION C: HVAC, CHILLERS & TERMINAL",
-      "Fuel injection problems",
+      "Service history log",
+      "Carbon build-up",
+      "Comprehensive cooling system audit",
       "Operating within rated limits"
     ],
     "correctIndex": 3
@@ -2260,9 +2260,9 @@
     "section": "GENERATORS",
     "question": "What maintenance action prevents injector failure?",
     "options": [
-      "Immediate load reduction",
-      "Routine inspection",
-      "Overload or governor malfunction",
+      "Comprehensive cooling system audit",
+      "Excessive exhaust smoke",
+      "Restricted airflow",
       "Fuel quality control"
     ],
     "correctIndex": 3
@@ -2274,9 +2274,9 @@
     "section": "GENERATORS",
     "question": "What supervisory responsibility ensures correct generator operation?",
     "options": [
-      "Battery or starter issues",
-      "Accelerated engine wear",
-      "Bearing inspection and lubrication",
+      "Fuel quality control",
+      "Fuel line inspection",
+      "Operating within rated limits",
       "Operator training"
     ],
     "correctIndex": 3
@@ -2288,10 +2288,10 @@
     "section": "GENERATORS",
     "question": "What is the effect of improper engine timing?",
     "options": [
-      "Leak inspection",
-      "Electrical system inspection",
+      "Misalignment or worn mountings",
+      "Oil pressure",
       "Reduced performance",
-      "Gradual load changes"
+      "Alternator and AVR"
     ],
     "correctIndex": 2
   },
@@ -2302,10 +2302,10 @@
     "section": "GENERATORS",
     "question": "What maintenance practice improves alternator lifespan?",
     "options": [
-      "Reduced performance",
+      "Availability of critical spares",
       "Bearing inspection and lubrication",
-      "Regular test runs",
-      "Alternator and AVR"
+      "Operating within rated limits",
+      "Poor cooling or altitude effects"
     ],
     "correctIndex": 1
   },
@@ -2316,10 +2316,10 @@
     "section": "GENERATORS",
     "question": "What fault leads to excessive fuel consumption?",
     "options": [
-      "Operating within rated limits",
+      "Reduced performance",
       "Poor combustion efficiency",
-      "Periodic load testing",
-      "Carbon build-up"
+      "Power failure affecting operations",
+      "Accelerated engine wear"
     ],
     "correctIndex": 1
   },
@@ -2331,9 +2331,9 @@
     "question": "What monitoring parameter indicates engine health?",
     "options": [
       "Oil pressure",
-      "Service history log",
-      "Regular fuel filtration",
-      "Compression testing"
+      "Electrical system inspection",
+      "Availability of critical spares",
+      "Governor malfunction"
     ],
     "correctIndex": 0
   },
@@ -2344,12 +2344,12 @@
     "section": "GENERATORS",
     "question": "What is the risk of operating faulty generators at airports?",
     "options": [
-      "Seal failure",
-      "Operating within rated limits",
-      "Power failure affecting operations",
-      "Leak inspection"
+      "Fuel quality control",
+      "Ensure manufacturer specifications compliance",
+      "Proper ventilation",
+      "Power failure affecting operations"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "MEC-PQ-69",
@@ -2358,12 +2358,12 @@
     "section": "GENERATORS",
     "question": "What maintenance practice prevents cooling fan failure?",
     "options": [
-      "Readiness assurance",
-      "Restricted airflow",
-      "Fuel injection problems",
-      "Routine inspection"
+      "Tension inspection",
+      "Fuel line inspection",
+      "Routine inspection",
+      "Periodic load testing"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
     "id": "MEC-PQ-70",
@@ -2372,10 +2372,10 @@
     "section": "GENERATORS",
     "question": "What system ensures generator automatic startup during power loss?",
     "options": [
-      "Service history log",
-      "Auto-start control system",
       "Restricted airflow",
-      "Comprehensive cooling system audit"
+      "Auto-start control system",
+      "Comprehensive cooling system audit",
+      "Compression testing"
     ],
     "correctIndex": 1
   },
@@ -2386,10 +2386,10 @@
     "section": "GENERATORS",
     "question": "What supervisory action is required during generator overhaul?",
     "options": [
-      "Auto-start control system",
-      "Power failure affecting operations",
+      "Operator training",
+      "Enforce operating limits",
       "Ensure manufacturer specifications compliance",
-      "Poor cooling or altitude effects"
+      "Excessive exhaust smoke"
     ],
     "correctIndex": 2
   },
@@ -2400,12 +2400,12 @@
     "section": "GENERATORS",
     "question": "What fault may cause generator frequency instability?",
     "options": [
-      "Immediate load reduction",
-      "Availability of critical spares",
-      "Excessive exhaust smoke",
-      "Governor malfunction"
+      "Isolate and troubleshoot system",
+      "Governor malfunction",
+      "Electrical system inspection",
+      "Service history log"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
     "id": "MEC-PQ-73",
@@ -2414,12 +2414,12 @@
     "section": "GENERATORS",
     "question": "What maintenance activity improves engine balance?",
     "options": [
-      "Readiness assurance",
-      "Alternator and AVR",
-      "Power failure affecting operations",
-      "Alignment and balancing"
+      "Immediate load reduction",
+      "Alignment and balancing",
+      "Restricted airflow",
+      "Overload or governor malfunction"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
     "id": "MEC-PQ-74",
@@ -2428,12 +2428,12 @@
     "section": "GENERATORS",
     "question": "What condition causes engine derating?",
     "options": [
-      "Enforce operating limits",
-      "Reduced performance",
       "Poor cooling or altitude effects",
-      "Battery or starter issues"
+      "Isolate and troubleshoot system",
+      "Auto-start control system",
+      "Load acceptance test SECTION C: HVAC, CHILLERS & TERMINAL"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "MEC-PQ-75",
@@ -2442,12 +2442,12 @@
     "section": "GENERATORS",
     "question": "What inspection confirms exhaust system safety?",
     "options": [
+      "Enforce operating limits",
+      "Poor combustion efficiency",
       "Leak inspection",
-      "Comprehensive cooling system audit",
-      "Immediate load reduction",
-      "Operating within rated limits"
+      "Readiness assurance"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
     "id": "MEC-PQ-76",
@@ -2456,12 +2456,12 @@
     "section": "GENERATORS",
     "question": "What action prevents exhaust-related hazards?",
     "options": [
-      "Oil pressure",
       "Proper ventilation",
-      "Regular test runs",
-      "Restricted airflow"
+      "Comprehensive cooling system audit",
+      "Immediate load reduction",
+      "Operating within rated limits"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "MEC-PQ-77",
@@ -2470,10 +2470,10 @@
     "section": "GENERATORS",
     "question": "What maintenance record supports generator lifecycle tracking?",
     "options": [
-      "Comprehensive cooling system audit",
+      "Oil pressure",
       "Service history log",
-      "Compression testing",
-      "Ensure manufacturer specifications compliance"
+      "Regular test runs",
+      "Restricted airflow"
     ],
     "correctIndex": 1
   },
@@ -2484,12 +2484,12 @@
     "section": "GENERATORS",
     "question": "What supervisory decision improves reliability of standby generators?",
     "options": [
-      "Immediate load reduction",
-      "Regular fuel filtration",
-      "Isolate and troubleshoot system",
-      "Regular test runs"
+      "Comprehensive cooling system audit",
+      "Regular test runs",
+      "Compression testing",
+      "Ensure manufacturer specifications compliance"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
     "id": "MEC-PQ-79",
@@ -2498,9 +2498,9 @@
     "section": "GENERATORS",
     "question": "What system fault causes delayed generator startup?",
     "options": [
-      "Fuel quality control",
-      "Operator training",
-      "Compression testing",
+      "Immediate load reduction",
+      "Regular fuel filtration",
+      "Isolate and troubleshoot system",
       "Battery or starter issues"
     ],
     "correctIndex": 3
@@ -2512,12 +2512,12 @@
     "section": "GENERATORS",
     "question": "What inspection ensures fuel supply continuity?",
     "options": [
-      "Reduced performance",
-      "Seal failure",
-      "Fuel line inspection",
-      "Alignment and balancing"
+      "Fuel quality control",
+      "Operator training",
+      "Compression testing",
+      "Fuel line inspection"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "MEC-PQ-81",
@@ -2526,12 +2526,12 @@
     "section": "GENERATORS",
     "question": "What supervisory responsibility ensures emergency power availability?",
     "options": [
+      "Reduced performance",
+      "Seal failure",
       "Readiness assurance",
-      "Gradual load changes",
-      "Operating within rated limits",
-      "Fuel quality control"
+      "Alignment and balancing"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
     "id": "MEC-PQ-82",
@@ -2540,12 +2540,12 @@
     "section": "GENERATORS",
     "question": "What maintenance practice prevents belt failure?",
     "options": [
-      "Regular test runs",
       "Tension inspection",
-      "Protective relays",
-      "Auto-start control system"
+      "Gradual load changes",
+      "Operating within rated limits",
+      "Fuel quality control"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "MEC-PQ-83",
@@ -2554,12 +2554,12 @@
     "section": "GENERATORS",
     "question": "What fault causes oil contamination?",
     "options": [
+      "Regular test runs",
       "Seal failure",
-      "Accelerated engine wear",
-      "Misalignment or worn mountings",
-      "Electrical system inspection"
+      "Protective relays",
+      "Auto-start control system"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "MEC-PQ-84",
@@ -2568,12 +2568,12 @@
     "section": "GENERATORS",
     "question": "What operational decision reduces mechanical stress?",
     "options": [
-      "Bearing inspection and lubrication",
-      "Excessive exhaust smoke",
-      "Governor malfunction",
-      "Gradual load changes"
+      "Gradual load changes",
+      "Accelerated engine wear",
+      "Misalignment or worn mountings",
+      "Electrical system inspection"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "id": "MEC-PQ-85",
@@ -2582,12 +2582,12 @@
     "section": "GENERATORS",
     "question": "What post-maintenance action confirms generator readiness?",
     "options": [
-      "Load acceptance test SECTION C: HVAC, CHILLERS & TERMINAL",
-      "Seal failure",
+      "Bearing inspection and lubrication",
       "Excessive exhaust smoke",
-      "Isolate and troubleshoot system"
+      "Governor malfunction",
+      "Load acceptance test SECTION C: HVAC, CHILLERS & TERMINAL"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
     "id": "MEC-PQ-86",
@@ -2596,10 +2596,10 @@
     "section": "SYSTEMS",
     "question": "What supervisory action ensures HVAC system efficiency?",
     "options": [
-      "Enforce safety protocols",
+      "Strict maintenance compliance",
       "Enforce routine maintenance",
-      "Structural examination",
-      "System diagnostics"
+      "Filter replacement",
+      "Improper belt tension"
     ],
     "correctIndex": 1
   },
@@ -2610,12 +2610,12 @@
     "section": "SYSTEMS",
     "question": "What fault causes chiller inefficiency?",
     "options": [
+      "Smooth operation",
       "Fouled heat exchangers",
-      "Maintain temperature standards",
-      "Routine inspection",
-      "Enforce routine maintenance"
+      "Specification enforcement",
+      "Daily mechanical checks"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "MEC-PQ-88",
@@ -2624,12 +2624,12 @@
     "section": "SYSTEMS",
     "question": "What monitoring parameter indicates HVAC performance?",
     "options": [
-      "Routine inspection",
-      "Temperature differential check",
-      "Equipment readiness checks",
-      "Supply air temperature"
+      "SOP enforcement",
+      "Fouled heat exchangers",
+      "Supply air temperature",
+      "Functional emergency stops"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
     "id": "MEC-PQ-89",
@@ -2638,12 +2638,12 @@
     "section": "SYSTEMS",
     "question": "What maintenance activity prevents compressor failure?",
     "options": [
-      "Operate within design limits",
-      "Restricted airflow",
       "Oil level monitoring",
-      "Load management"
+      "Regular inspection and cleaning",
+      "System performance audit",
+      "Restricted airflow"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "MEC-PQ-90",
@@ -2652,12 +2652,12 @@
     "section": "SYSTEMS",
     "question": "What action should follow repeated HVAC breakdowns?",
     "options": [
-      "Inspect drive components",
+      "Supply air temperature",
+      "Performance monitoring",
       "System performance audit",
-      "Maintain temperature standards",
-      "Flow and pressure testing"
+      "Load monitoring"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "MEC-PQ-91",
@@ -2666,12 +2666,12 @@
     "section": "SYSTEMS",
     "question": "What condition leads to poor terminal cooling?",
     "options": [
-      "Blocked air filters",
-      "Load assessment",
-      "Predictive maintenance",
-      "Motor damage"
+      "Low suction pressure",
+      "Unresolved root causes",
+      "Dirty ducts",
+      "Blocked air filters"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
     "id": "MEC-PQ-92",
@@ -2680,10 +2680,10 @@
     "section": "SYSTEMS",
     "question": "What supervisory decision improves HVAC reliability?",
     "options": [
-      "Supervision and monitoring",
+      "Control system malfunction",
       "Scheduled preventive maintenance",
-      "Regular inspections",
-      "Functional emergency stops"
+      "Structural wear",
+      "Temperature differential check"
     ],
     "correctIndex": 1
   },
@@ -2694,12 +2694,12 @@
     "section": "SYSTEMS",
     "question": "What fault causes excessive vibration in chillers?",
     "options": [
-      "Improper air distribution",
-      "System optimization",
+      "Improper belt tension",
       "Imbalance or misalignment",
-      "Enforce inspection schedules"
+      "Routine servicing",
+      "Gauge monitoring"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "MEC-PQ-94",
@@ -2708,12 +2708,12 @@
     "section": "SYSTEMS",
     "question": "What inspection ensures chilled water flow?",
     "options": [
-      "Timely repairs",
-      "Proper lubrication",
-      "Pump performance check",
-      "Oil level monitoring"
+      "Leakage",
+      "Investigate root cause",
+      "Passenger discomfort and system failure",
+      "Pump performance check"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "MEC-PQ-95",
@@ -2722,12 +2722,12 @@
     "section": "SYSTEMS",
     "question": "What is the risk of HVAC system neglect in terminals?",
     "options": [
-      "Passenger discomfort and system failure",
-      "Avoid prolonged idling",
-      "Insufficient suction pressure",
-      "Oil level monitoring"
+      "Routine servicing",
+      "Maintain standby units",
+      "Control system inspection",
+      "Passenger discomfort and system failure"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
     "id": "MEC-PQ-96",
@@ -2736,12 +2736,12 @@
     "section": "SYSTEMS",
     "question": "What maintenance action prevents refrigerant leakage?",
     "options": [
-      "Planned maintenance scheduling",
-      "Control system malfunction",
-      "Smooth operation",
-      "Pressure testing"
+      "Pressure testing",
+      "Regular inspections",
+      "Hose inspection",
+      "Record verification"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "id": "MEC-PQ-97",
@@ -2750,12 +2750,12 @@
     "section": "SYSTEMS",
     "question": "What supervisory responsibility ensures energy efficiency?",
     "options": [
-      "Monitoring system load",
-      "Enforce inspection schedules",
-      "Seal or valve failure",
-      "System diagnostics"
+      "Oil level monitoring",
+      "Predictive maintenance",
+      "Maintenance briefing",
+      "Monitoring system load"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
     "id": "MEC-PQ-98",
@@ -2764,10 +2764,10 @@
     "section": "SYSTEMS",
     "question": "What action should follow compressor trip alarms?",
     "options": [
-      "Technical training",
+      "Dirty ducts",
       "Investigate root cause",
-      "Pressure testing",
-      "Equipment readiness checks"
+      "Proper lubrication",
+      "Improper air distribution"
     ],
     "correctIndex": 1
   },
@@ -2779,9 +2779,9 @@
     "question": "What condition leads to icing in evaporator coils?",
     "options": [
       "Restricted airflow",
-      "Fouled heat exchangers",
-      "Inspect bearings and alignment",
-      "Structural wear"
+      "Planned maintenance windows",
+      "Load assessment",
+      "Insufficient suction pressure"
     ],
     "correctIndex": 0
   },
@@ -2792,12 +2792,12 @@
     "section": "SYSTEMS",
     "question": "What maintenance practice improves HVAC lifespan?",
     "options": [
-      "Motor damage",
-      "Fluid cleanliness control",
-      "Regular inspection and cleaning",
-      "Load monitoring"
+      "Follow shutdown procedure",
+      "Routine servicing",
+      "Structural wear",
+      "Regular inspection and cleaning"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "MEC-PQ-101",
@@ -2806,12 +2806,12 @@
     "section": "SYSTEMS",
     "question": "What fault causes abnormal chiller noise?",
     "options": [
-      "Adherence to load charts",
-      "Unresolved root causes",
-      "Filter replacement",
-      "Bearing wear"
+      "Bearing wear",
+      "Load management",
+      "Record verification",
+      "Passenger discomfort and system failure"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "id": "MEC-PQ-102",
@@ -2820,12 +2820,12 @@
     "section": "SYSTEMS",
     "question": "What supervisory action ensures safe HVAC operation?",
     "options": [
-      "Load limit enforcement",
-      "Inspect drive components",
       "Enforce safety protocols",
-      "Investigate root cause"
+      "Worn rollers",
+      "Air in system",
+      "Regular inspections"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "MEC-PQ-103",
@@ -2835,9 +2835,9 @@
     "question": "What inspection confirms condenser efficiency?",
     "options": [
       "Temperature differential check",
-      "Operational certification",
-      "Proper documentation",
-      "Routine servicing"
+      "Equipment readiness checks",
+      "System performance audit",
+      "Site supervision"
     ],
     "correctIndex": 0
   },
@@ -2848,12 +2848,12 @@
     "section": "SYSTEMS",
     "question": "What maintenance action reduces HVAC energy consumption?",
     "options": [
-      "Adherence to load charts",
-      "Routine inspection",
+      "Inspect hydraulic system",
       "System optimization",
-      "Operational testing SECTION D: BHS, ESCALATORS, FIRE TRUCKS & HEAVY EQUIPMENT (131–200)"
+      "Maintain standby units",
+      "Adherence to load charts"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "MEC-PQ-105",
@@ -2862,12 +2862,12 @@
     "section": "SYSTEMS",
     "question": "What operational decision improves indoor air quality?",
     "options": [
-      "Unresolved root causes",
-      "Worn brake components",
-      "Leakage",
-      "Filter replacement"
+      "Maintenance briefing",
+      "Record verification",
+      "Filter replacement",
+      "SOP enforcement"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
     "id": "MEC-PQ-106",
@@ -2876,12 +2876,12 @@
     "section": "SYSTEMS",
     "question": "What fault causes pump cavitation?",
     "options": [
-      "Load monitoring",
-      "Proper documentation",
-      "Major system failure",
-      "Insufficient suction pressure"
+      "Maintain standby units",
+      "Insufficient suction pressure",
+      "System performance audit",
+      "Preventive servicing"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
     "id": "MEC-PQ-107",
@@ -2890,10 +2890,10 @@
     "section": "SYSTEMS",
     "question": "What maintenance practice prevents motor burnout?",
     "options": [
-      "Planned maintenance",
-      "Operational testing SECTION D: BHS, ESCALATORS, FIRE TRUCKS & HEAVY EQUIPMENT (131–200)",
+      "Unresolved root causes",
+      "Electrical overload",
       "Load monitoring",
-      "Passenger discomfort and system failure"
+      "Air in system"
     ],
     "correctIndex": 2
   },
@@ -2904,12 +2904,12 @@
     "section": "SYSTEMS",
     "question": "What supervisory decision prevents HVAC downtime?",
     "options": [
-      "System optimization",
-      "Planned maintenance",
       "Spare parts availability",
-      "Flow and pressure testing"
+      "Regular lubrication",
+      "Ensure operational compliance",
+      "Inspect drive components"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "MEC-PQ-109",
@@ -2918,12 +2918,12 @@
     "section": "SYSTEMS",
     "question": "What system parameter indicates refrigerant shortage?",
     "options": [
-      "Routine servicing",
-      "Daily mechanical checks",
-      "Low suction pressure",
-      "Scheduled preventive maintenance"
+      "Oil level monitoring",
+      "Flow and pressure testing",
+      "Imbalance or misalignment",
+      "Low suction pressure"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "MEC-PQ-110",
@@ -2932,9 +2932,9 @@
     "section": "SYSTEMS",
     "question": "What inspection ensures cooling tower efficiency?",
     "options": [
-      "Preventive maintenance enforcement",
-      "Regular inspection and cleaning",
-      "Technical training",
+      "Equipment readiness assurance",
+      "Regular inspections",
+      "Performance monitoring",
       "Water distribution check"
     ],
     "correctIndex": 3
@@ -2946,12 +2946,12 @@
     "section": "SYSTEMS",
     "question": "What action should follow abnormal vibration in air handling units?",
     "options": [
-      "Equipment failure",
-      "Immediate system isolation",
-      "Maintenance briefing",
-      "Inspect bearings and alignment"
+      "Technical training",
+      "Unresolved root causes",
+      "Inspect bearings and alignment",
+      "Scheduled preventive maintenance"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
     "id": "MEC-PQ-112",
@@ -2960,12 +2960,12 @@
     "section": "SYSTEMS",
     "question": "What maintenance activity ensures control system accuracy?",
     "options": [
-      "Sensor calibration",
-      "Major system failure",
-      "Planned maintenance windows",
-      "Fouled heat exchangers"
+      "Load management",
+      "Inspect bearings and alignment",
+      "Spare parts availability",
+      "Sensor calibration"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
     "id": "MEC-PQ-113",
@@ -2974,12 +2974,12 @@
     "section": "SYSTEMS",
     "question": "What risk is associated with chiller overloading?",
     "options": [
-      "SOP enforcement",
+      "Temperature differential check",
+      "Structural examination",
       "System failure",
-      "Control system inspection",
-      "Immediate investigation"
+      "Operational certification"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "MEC-PQ-114",
@@ -2988,10 +2988,10 @@
     "section": "SYSTEMS",
     "question": "What supervisory responsibility ensures occupant comfort?",
     "options": [
-      "Control system malfunction",
+      "Adherence to load charts",
       "Maintain temperature standards",
-      "Preventive maintenance enforcement",
-      "Improper belt tension"
+      "Drive system issues",
+      "Restricted fluid flow"
     ],
     "correctIndex": 1
   },
@@ -3002,12 +3002,12 @@
     "section": "SYSTEMS",
     "question": "What maintenance practice prevents corrosion in HVAC piping?",
     "options": [
-      "Functional testing",
-      "Water treatment",
-      "Planned maintenance scheduling",
-      "Temperature differential check"
+      "Air in system",
+      "Smooth operation",
+      "Supervision and monitoring",
+      "Water treatment"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "MEC-PQ-116",
@@ -3016,12 +3016,12 @@
     "section": "SYSTEMS",
     "question": "What condition causes reduced airflow?",
     "options": [
+      "Monitoring system load",
       "Dirty ducts",
-      "Insufficient suction pressure",
-      "Equipment readiness checks",
-      "Temperature differential check"
+      "Preventive maintenance",
+      "Timely repairs"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "MEC-PQ-117",
@@ -3030,10 +3030,10 @@
     "section": "SYSTEMS",
     "question": "What action ensures HVAC redundancy?",
     "options": [
-      "System performance audit",
-      "Structural wear",
+      "Seal or valve failure",
+      "Control system malfunction",
       "Maintain standby units",
-      "Enforce safety protocols"
+      "Preventive maintenance"
     ],
     "correctIndex": 2
   },
@@ -3044,12 +3044,12 @@
     "section": "SYSTEMS",
     "question": "What supervisory action ensures compliance with design parameters?",
     "options": [
-      "Leakage",
-      "Daily mechanical checks",
-      "Performance monitoring",
-      "Investigate root cause"
+      "Inspect bearings and alignment",
+      "Pump performance check",
+      "System failure",
+      "Performance monitoring"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "MEC-PQ-119",
@@ -3058,12 +3058,12 @@
     "section": "SYSTEMS",
     "question": "What fault causes high discharge pressure?",
     "options": [
-      "Improper air distribution",
       "Blocked condenser",
+      "Tension monitoring",
       "Structural examination",
-      "Dirty ducts"
+      "Immediate investigation"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "MEC-PQ-120",
@@ -3072,9 +3072,9 @@
     "section": "SYSTEMS",
     "question": "What maintenance decision improves long-term HVAC performance?",
     "options": [
-      "Operational testing SECTION D: BHS, ESCALATORS, FIRE TRUCKS & HEAVY EQUIPMENT (131–200)",
-      "Improper belt tension",
-      "Immediate system isolation",
+      "Inspect hydraulic system",
+      "Structural wear",
+      "Blocked condenser",
       "Lifecycle planning"
     ],
     "correctIndex": 3
@@ -3086,10 +3086,10 @@
     "section": "SYSTEMS",
     "question": "What inspection ensures proper damper operation?",
     "options": [
-      "Site supervision",
-      "Load assessment",
+      "Proper documentation",
+      "Safety switch activation",
       "Functional testing",
-      "Structural examination"
+      "Equipment availability management"
     ],
     "correctIndex": 2
   },
@@ -3100,12 +3100,12 @@
     "section": "SYSTEMS",
     "question": "What operational practice prevents thermal shock?",
     "options": [
+      "Sensor calibration",
+      "Structural wear",
       "Gradual temperature changes",
-      "Proper lubrication",
-      "Functional testing",
-      "Routine servicing"
+      "Lifecycle planning"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
     "id": "MEC-PQ-123",
@@ -3114,12 +3114,12 @@
     "section": "SYSTEMS",
     "question": "What fault leads to frequent HVAC trips?",
     "options": [
-      "Electrical overload",
-      "Enforce safety protocols",
-      "Spare parts availability",
-      "Follow shutdown procedure"
+      "Load limit enforcement",
+      "Passenger discomfort and system failure",
+      "Adherence to load charts",
+      "Electrical overload"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
     "id": "MEC-PQ-124",
@@ -3129,9 +3129,9 @@
     "question": "What supervisory action ensures contractor compliance in HVAC works?",
     "options": [
       "Site supervision",
-      "Lifecycle planning",
-      "Flow and pressure testing",
-      "Water treatment"
+      "Timely repairs",
+      "Spare parts availability",
+      "Fluid cleanliness control"
     ],
     "correctIndex": 0
   },
@@ -3142,12 +3142,12 @@
     "section": "SYSTEMS",
     "question": "What maintenance practice improves chiller reliability?",
     "options": [
+      "Maintain standby units",
       "Preventive servicing",
-      "Equipment readiness checks",
-      "Safety system malfunction",
-      "Operate within design limits"
+      "Major system failure",
+      "Regular inspection and cleaning"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "MEC-PQ-126",
@@ -3156,12 +3156,12 @@
     "section": "SYSTEMS",
     "question": "What condition leads to uneven cooling in terminals?",
     "options": [
-      "Visual and mechanical checks",
-      "Maintain temperature standards",
-      "Regular inspection and cleaning",
-      "Improper air distribution"
+      "Improper air distribution",
+      "Equipment failure",
+      "Filter replacement",
+      "Planned maintenance windows"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "id": "MEC-PQ-127",
@@ -3170,12 +3170,12 @@
     "section": "SYSTEMS",
     "question": "What action ensures HVAC control stability?",
     "options": [
-      "Passenger discomfort and system failure",
-      "Maintain temperature standards",
+      "Electrical overload",
       "Control system inspection",
-      "Site supervision"
+      "Water treatment",
+      "Predictive maintenance"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "MEC-PQ-128",
@@ -3184,12 +3184,12 @@
     "section": "SYSTEMS",
     "question": "What risk results from ignoring HVAC alarms?",
     "options": [
-      "Operational certification",
-      "Functional emergency stops",
+      "Structural examination",
       "Major system failure",
-      "Avoid prolonged idling"
+      "Pump performance check",
+      "Strict maintenance compliance"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "MEC-PQ-129",
@@ -3199,11 +3199,11 @@
     "question": "What supervisory decision improves system availability?",
     "options": [
       "Regular lubrication",
+      "Hose inspection",
       "Planned maintenance windows",
-      "Strict maintenance compliance",
-      "Technical training"
+      "Avoid prolonged idling"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "MEC-PQ-130",
@@ -3212,12 +3212,12 @@
     "section": "SYSTEMS",
     "question": "What post-maintenance check ensures HVAC readiness?",
     "options": [
+      "Safety switch activation",
+      "Control system malfunction",
       "Operational testing SECTION D: BHS, ESCALATORS, FIRE TRUCKS & HEAVY EQUIPMENT (131–200)",
-      "Specification enforcement",
-      "Routine servicing",
-      "Follow shutdown procedure"
+      "Hose inspection"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
     "id": "MEC-PQ-131",
@@ -3226,12 +3226,12 @@
     "section": "SYSTEMS",
     "question": "What supervisory action is required during BHS breakdowns?",
     "options": [
-      "Low suction pressure",
-      "Strict maintenance compliance",
-      "System diagnostics",
-      "Immediate system isolation"
+      "Investigate root cause",
+      "Major system failure",
+      "Immediate system isolation",
+      "Ensure operational compliance"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
     "id": "MEC-PQ-132",
@@ -3240,12 +3240,12 @@
     "section": "SYSTEMS",
     "question": "What fault causes conveyor belt slippage?",
     "options": [
-      "Planned maintenance",
-      "Sensor calibration",
       "Improper belt tension",
-      "Fouled heat exchangers"
+      "Record verification",
+      "Load management",
+      "Proper documentation"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "MEC-PQ-133",
@@ -3254,12 +3254,12 @@
     "section": "SYSTEMS",
     "question": "What maintenance action reduces BHS downtime?",
     "options": [
-      "Operate within design limits",
-      "Functional testing",
       "Routine inspection",
-      "Gradual temperature changes"
+      "Leakage",
+      "Predictive maintenance",
+      "Seal or valve failure"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "MEC-PQ-134",
@@ -3269,9 +3269,9 @@
     "question": "What risk is associated with running jammed conveyors?",
     "options": [
       "Motor damage",
-      "Strict maintenance compliance",
-      "Control system inspection",
-      "Supervision and monitoring"
+      "Pump performance check",
+      "Inspect hydraulic system",
+      "Blocked condenser"
     ],
     "correctIndex": 0
   },
@@ -3282,12 +3282,12 @@
     "section": "SYSTEMS",
     "question": "What action ensures passenger safety around BHS?",
     "options": [
-      "Structural wear",
-      "Daily mechanical checks",
-      "Supply air temperature",
-      "Functional emergency stops"
+      "Enforce inspection schedules",
+      "Smooth operation",
+      "Functional emergency stops",
+      "Technical training"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
     "id": "MEC-PQ-136",
@@ -3296,12 +3296,12 @@
     "section": "SYSTEMS",
     "question": "What supervisory responsibility ensures BHS reliability?",
     "options": [
-      "Proper documentation",
-      "System performance audit",
-      "Preventive maintenance enforcement",
-      "Functional testing"
+      "Restricted fluid flow",
+      "Equipment readiness checks",
+      "Supply air temperature",
+      "Preventive maintenance enforcement"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "MEC-PQ-137",
@@ -3310,12 +3310,12 @@
     "section": "SYSTEMS",
     "question": "What fault causes abnormal noise in conveyors?",
     "options": [
-      "Immediate investigation",
+      "Proper documentation",
+      "System performance audit",
       "Worn rollers",
-      "Filter replacement",
-      "Equipment failure"
+      "Functional testing"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "MEC-PQ-138",
@@ -3324,12 +3324,12 @@
     "section": "SYSTEMS",
     "question": "What maintenance practice improves conveyor lifespan?",
     "options": [
-      "Water treatment",
-      "Pump performance check",
-      "Supervision and monitoring",
-      "Proper lubrication"
+      "Immediate investigation",
+      "Proper lubrication",
+      "Filter replacement",
+      "Equipment failure"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
     "id": "MEC-PQ-139",
@@ -3338,12 +3338,12 @@
     "section": "SYSTEMS",
     "question": "What action should follow repeated BHS motor overheating?",
     "options": [
-      "Load assessment",
-      "Maintain temperature standards",
-      "Blocked air filters",
-      "Regular lubrication"
+      "Water treatment",
+      "Pump performance check",
+      "Supervision and monitoring",
+      "Load assessment"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
     "id": "MEC-PQ-140",
@@ -3352,12 +3352,12 @@
     "section": "SYSTEMS",
     "question": "What inspection confirms conveyor alignment?",
     "options": [
-      "Sensor calibration",
-      "Operate within design limits",
       "Visual and mechanical checks",
-      "Smooth operation"
+      "Maintain temperature standards",
+      "Blocked air filters",
+      "Regular inspections"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "MEC-PQ-141",
@@ -3366,10 +3366,10 @@
     "section": "SYSTEMS",
     "question": "What supervisory action ensures escalator safety?",
     "options": [
-      "Control system inspection",
-      "Inspect drive components",
+      "Sensor calibration",
+      "Operate within design limits",
       "Enforce inspection schedules",
-      "Site supervision"
+      "Smooth operation"
     ],
     "correctIndex": 2
   },
@@ -3380,10 +3380,10 @@
     "section": "SYSTEMS",
     "question": "What fault causes escalator sudden stoppage?",
     "options": [
-      "Fluid cleanliness control",
-      "Temperature differential check",
+      "Control system inspection",
+      "Inspect drive components",
       "Safety switch activation",
-      "Supervision and monitoring"
+      "Site supervision"
     ],
     "correctIndex": 2
   },
@@ -3394,12 +3394,12 @@
     "section": "SYSTEMS",
     "question": "What maintenance practice prevents escalator chain failure?",
     "options": [
-      "Low suction pressure",
-      "Worn brake components",
       "Fluid cleanliness control",
-      "Tension monitoring"
+      "Temperature differential check",
+      "Tension monitoring",
+      "Supervision and monitoring"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
     "id": "MEC-PQ-144",
@@ -3408,12 +3408,12 @@
     "section": "SYSTEMS",
     "question": "What condition requires escalator shutdown?",
     "options": [
-      "Safety system malfunction",
-      "Spare parts availability",
-      "Predictive maintenance",
-      "Supply air temperature"
+      "Low suction pressure",
+      "Strict maintenance compliance",
+      "Tension monitoring",
+      "Safety system malfunction"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
     "id": "MEC-PQ-145",
@@ -3422,12 +3422,12 @@
     "section": "SYSTEMS",
     "question": "What supervisory responsibility ensures passenger safety on escalators?",
     "options": [
-      "Operational certification",
-      "Record verification",
       "Ensure operational compliance",
-      "Follow shutdown procedure"
+      "Spare parts availability",
+      "Predictive maintenance",
+      "Supply air temperature"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "MEC-PQ-146",
@@ -3436,12 +3436,12 @@
     "section": "SYSTEMS",
     "question": "What maintenance action reduces escalator wear?",
     "options": [
-      "Functional testing",
+      "Operational certification",
+      "Record verification",
       "Regular lubrication",
-      "Maintenance briefing",
-      "Load management"
+      "Follow shutdown procedure"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "MEC-PQ-147",
@@ -3450,12 +3450,12 @@
     "section": "SYSTEMS",
     "question": "What inspection ensures escalator brake reliability?",
     "options": [
-      "Follow shutdown procedure",
-      "Fouled heat exchangers",
-      "Equipment availability management",
-      "Functional testing"
+      "Gradual temperature changes",
+      "Functional testing",
+      "Maintenance briefing",
+      "Load management"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
     "id": "MEC-PQ-148",
@@ -3464,9 +3464,9 @@
     "section": "SYSTEMS",
     "question": "What fault leads to uneven escalator movement?",
     "options": [
-      "Maintenance briefing",
-      "Maintain standby units",
-      "Planned maintenance scheduling",
+      "Follow shutdown procedure",
+      "Fouled heat exchangers",
+      "Equipment availability management",
       "Drive system issues"
     ],
     "correctIndex": 3
@@ -3478,12 +3478,12 @@
     "section": "SYSTEMS",
     "question": "What action follows escalator abnormal vibration?",
     "options": [
-      "Inspect drive components",
-      "Specification enforcement",
-      "Temperature differential check",
-      "Load management"
+      "Maintenance briefing",
+      "Maintain standby units",
+      "Planned maintenance scheduling",
+      "Inspect drive components"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
     "id": "MEC-PQ-150",
@@ -3492,12 +3492,12 @@
     "section": "SYSTEMS",
     "question": "What supervisory decision ensures escalator availability?",
     "options": [
-      "Worn rollers",
-      "Load management",
       "Planned maintenance scheduling",
-      "Insufficient suction pressure"
+      "Air in system",
+      "Investigate root cause",
+      "Strict maintenance compliance"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "MEC-PQ-151",
@@ -3506,12 +3506,12 @@
     "section": "SYSTEMS",
     "question": "What supervisory responsibility ensures fire truck readiness?",
     "options": [
-      "Worn rollers",
+      "Maintain temperature standards",
+      "Operational testing SECTION D: BHS, ESCALATORS, FIRE TRUCKS & HEAVY EQUIPMENT (131–200)",
       "Daily mechanical checks",
-      "Routine inspection",
-      "Imbalance or misalignment"
+      "Filter replacement"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "MEC-PQ-152",
@@ -3520,12 +3520,12 @@
     "section": "SYSTEMS",
     "question": "What fault causes loss of pump pressure in fire trucks?",
     "options": [
-      "Equipment readiness checks",
-      "Pressure testing",
-      "Preventive maintenance",
-      "Seal or valve failure"
+      "Worn rollers",
+      "Seal or valve failure",
+      "Routine inspection",
+      "Imbalance or misalignment"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
     "id": "MEC-PQ-153",
@@ -3534,9 +3534,9 @@
     "section": "SYSTEMS",
     "question": "What maintenance practice ensures fire truck reliability?",
     "options": [
-      "Proper documentation",
-      "Planned maintenance scheduling",
-      "Equipment availability management",
+      "Equipment readiness checks",
+      "Pressure testing",
+      "Preventive maintenance",
       "Routine servicing"
     ],
     "correctIndex": 3
@@ -3548,12 +3548,12 @@
     "section": "SYSTEMS",
     "question": "What action should follow fire truck engine alarm?",
     "options": [
-      "Low suction pressure",
-      "Improper air distribution",
-      "Immediate investigation",
-      "Improper belt tension"
+      "Proper documentation",
+      "Planned maintenance scheduling",
+      "Equipment availability management",
+      "Immediate investigation"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "MEC-PQ-155",
@@ -3562,12 +3562,12 @@
     "section": "SYSTEMS",
     "question": "What supervisory decision prevents fire truck breakdown during emergencies?",
     "options": [
-      "Blocked condenser",
-      "Flow and pressure testing",
-      "Dirty ducts",
-      "Strict maintenance compliance"
+      "Low suction pressure",
+      "Improper air distribution",
+      "Strict maintenance compliance",
+      "Improper belt tension"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
     "id": "MEC-PQ-156",
@@ -3576,12 +3576,12 @@
     "section": "SYSTEMS",
     "question": "What fault causes braking inefficiency in fire trucks?",
     "options": [
-      "Sensor calibration",
-      "Passenger discomfort and system failure",
-      "Worn brake components",
-      "Pump performance check"
+      "Blocked condenser",
+      "Flow and pressure testing",
+      "Dirty ducts",
+      "Worn brake components"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "MEC-PQ-157",
@@ -3590,10 +3590,10 @@
     "section": "SYSTEMS",
     "question": "What inspection ensures fire truck pump performance?",
     "options": [
-      "Performance monitoring",
-      "Dirty ducts",
+      "Ensure operational compliance",
+      "Passenger discomfort and system failure",
       "Flow and pressure testing",
-      "Operate within design limits"
+      "Pump performance check"
     ],
     "correctIndex": 2
   },
@@ -3604,12 +3604,12 @@
     "section": "SYSTEMS",
     "question": "What operational practice preserves fire truck engines?",
     "options": [
-      "Blocked air filters",
-      "Worn brake components",
-      "Pump performance check",
-      "Avoid prolonged idling"
+      "Performance monitoring",
+      "Dirty ducts",
+      "Avoid prolonged idling",
+      "Operate within design limits"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
     "id": "MEC-PQ-159",
@@ -3618,9 +3618,9 @@
     "section": "SYSTEMS",
     "question": "What action ensures fire truck availability at all times?",
     "options": [
-      "Bearing wear",
-      "Regular inspections",
-      "Fouled heat exchangers",
+      "Blocked air filters",
+      "Flow and pressure testing",
+      "Pump performance check",
       "Maintain standby units"
     ],
     "correctIndex": 3
@@ -3632,12 +3632,12 @@
     "section": "SYSTEMS",
     "question": "What supervisory responsibility ensures ARFF effectiveness?",
     "options": [
-      "Equipment readiness assurance",
-      "Planned maintenance scheduling",
-      "Functional testing",
-      "Equipment readiness checks"
+      "Bearing wear",
+      "Adherence to load charts",
+      "Fouled heat exchangers",
+      "Equipment readiness assurance"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
     "id": "MEC-PQ-161",
@@ -3646,12 +3646,12 @@
     "section": "SYSTEMS",
     "question": "What maintenance action prevents hydraulic failure in heavy equipment?",
     "options": [
-      "Control system malfunction",
       "Hose inspection",
-      "Safety switch activation",
-      "Gauge monitoring"
+      "Planned maintenance scheduling",
+      "Functional testing",
+      "Equipment readiness checks"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "MEC-PQ-162",
@@ -3660,12 +3660,12 @@
     "section": "SYSTEMS",
     "question": "What fault causes lifting equipment instability?",
     "options": [
-      "Air in system",
-      "System optimization",
+      "Control system malfunction",
       "Structural wear",
-      "Routine inspection"
+      "Safety switch activation",
+      "Gauge monitoring"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "MEC-PQ-163",
@@ -3674,12 +3674,12 @@
     "section": "SYSTEMS",
     "question": "What supervisory action ensures crane safety?",
     "options": [
-      "Lifecycle planning",
-      "Adherence to load charts",
-      "Load management",
-      "Load limit enforcement"
+      "Air in system",
+      "System optimization",
+      "Load limit enforcement",
+      "Routine inspection"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
     "id": "MEC-PQ-164",
@@ -3688,12 +3688,12 @@
     "section": "SYSTEMS",
     "question": "What inspection ensures lifting equipment integrity?",
     "options": [
-      "Structural examination",
-      "Maintain standby units",
-      "Record verification",
-      "Tension monitoring"
+      "Lifecycle planning",
+      "Adherence to load charts",
+      "Load management",
+      "Structural examination"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
     "id": "MEC-PQ-165",
@@ -3702,12 +3702,12 @@
     "section": "SYSTEMS",
     "question": "What maintenance practice reduces equipment fatigue?",
     "options": [
-      "Fouled heat exchangers",
-      "Flow and pressure testing",
-      "Increased accident potential",
-      "Load management"
+      "Load management",
+      "Maintain standby units",
+      "Record verification",
+      "Tension monitoring"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "id": "MEC-PQ-166",
@@ -3716,12 +3716,12 @@
     "section": "SYSTEMS",
     "question": "What action should follow abnormal hydraulic noise?",
     "options": [
-      "Fluid cleanliness control",
-      "Inspect hydraulic system",
-      "Proper documentation",
-      "Preventive servicing"
+      "Fouled heat exchangers",
+      "Flow and pressure testing",
+      "Increased accident potential",
+      "Inspect hydraulic system"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "MEC-PQ-167",
@@ -3730,12 +3730,12 @@
     "section": "SYSTEMS",
     "question": "What supervisory decision improves heavy equipment reliability?",
     "options": [
-      "Load management",
-      "Improper belt tension",
-      "Drive system issues",
-      "Preventive maintenance"
+      "Adherence to load charts",
+      "Preventive maintenance",
+      "Valve leakage",
+      "Improper air distribution"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
     "id": "MEC-PQ-168",
@@ -3744,9 +3744,9 @@
     "section": "SYSTEMS",
     "question": "What fault causes hydraulic overheating?",
     "options": [
-      "Functional testing",
-      "Planned maintenance scheduling",
-      "Imbalance or misalignment",
+      "Load management",
+      "Improper belt tension",
+      "Drive system issues",
       "Restricted fluid flow"
     ],
     "correctIndex": 3
@@ -3758,12 +3758,12 @@
     "section": "SYSTEMS",
     "question": "What maintenance action prevents seal failure?",
     "options": [
-      "Structural examination",
-      "Supervision and monitoring",
-      "Fluid cleanliness control",
-      "Predictive maintenance"
+      "Functional testing",
+      "Planned maintenance scheduling",
+      "Imbalance or misalignment",
+      "Fluid cleanliness control"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "MEC-PQ-170",
@@ -3772,12 +3772,12 @@
     "section": "SYSTEMS",
     "question": "What operational practice ensures safe lifting operations?",
     "options": [
-      "Air in system",
+      "Structural examination",
+      "Supervision and monitoring",
       "Adherence to load charts",
-      "Drive system issues",
-      "Regular lubrication"
+      "Predictive maintenance"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "MEC-PQ-171",
@@ -3786,12 +3786,12 @@
     "section": "SYSTEMS",
     "question": "What supervisory responsibility ensures equipment safety compliance?",
     "options": [
+      "Air in system",
       "Regular inspections",
-      "Supply air temperature",
-      "System performance audit",
-      "Equipment availability management"
+      "Drive system issues",
+      "Regular lubrication"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "MEC-PQ-172",
@@ -3801,9 +3801,9 @@
     "question": "What fault causes equipment drift?",
     "options": [
       "Valve leakage",
-      "Regular inspection and cleaning",
-      "Preventive maintenance",
-      "Predictive maintenance"
+      "Supply air temperature",
+      "System performance audit",
+      "Equipment availability management"
     ],
     "correctIndex": 0
   },
@@ -3814,12 +3814,12 @@
     "section": "SYSTEMS",
     "question": "What maintenance practice ensures hydraulic system efficiency?",
     "options": [
-      "Load monitoring",
       "Pressure testing",
-      "Control system malfunction",
-      "Planned maintenance"
+      "Bearing wear",
+      "Fluid cleanliness control",
+      "Predictive maintenance"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "MEC-PQ-174",
@@ -3828,10 +3828,10 @@
     "section": "SYSTEMS",
     "question": "What action ensures safe shutdown of heavy equipment?",
     "options": [
-      "Structural examination",
+      "Insufficient suction pressure",
       "Follow shutdown procedure",
-      "Structural wear",
-      "Functional testing"
+      "Control system malfunction",
+      "Planned maintenance"
     ],
     "correctIndex": 1
   },
@@ -3842,12 +3842,12 @@
     "section": "SYSTEMS",
     "question": "What supervisory decision ensures equipment serviceability?",
     "options": [
-      "Passenger discomfort and system failure",
-      "Pump performance check",
-      "Supervision and monitoring",
-      "Timely repairs"
+      "Structural examination",
+      "Timely repairs",
+      "Structural wear",
+      "Functional testing"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
     "id": "MEC-PQ-176",
@@ -3856,12 +3856,12 @@
     "section": "SYSTEMS",
     "question": "What risk results from ignoring hydraulic leaks?",
     "options": [
-      "Safety system malfunction",
-      "Immediate system isolation",
-      "Equipment failure",
-      "Seal or valve failure"
+      "Passenger discomfort and system failure",
+      "Pump performance check",
+      "Supervision and monitoring",
+      "Equipment failure"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "MEC-PQ-177",
@@ -3870,12 +3870,12 @@
     "section": "SYSTEMS",
     "question": "What inspection confirms system pressure stability?",
     "options": [
-      "Leakage",
-      "Operational testing SECTION D: BHS, ESCALATORS, FIRE TRUCKS & HEAVY EQUIPMENT (131–200)",
-      "Predictive maintenance",
-      "Gauge monitoring"
+      "Safety system malfunction",
+      "Immediate system isolation",
+      "Gauge monitoring",
+      "Seal or valve failure"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
     "id": "MEC-PQ-178",
@@ -3884,9 +3884,9 @@
     "section": "SYSTEMS",
     "question": "What maintenance practice improves operational safety?",
     "options": [
-      "Restricted fluid flow",
-      "Water distribution check",
-      "Increased accident potential",
+      "Leakage",
+      "Operational testing SECTION D: BHS, ESCALATORS, FIRE TRUCKS & HEAVY EQUIPMENT (131–200)",
+      "Predictive maintenance",
       "SOP enforcement"
     ],
     "correctIndex": 3
@@ -3898,12 +3898,12 @@
     "section": "SYSTEMS",
     "question": "What supervisory action ensures staff competence?",
     "options": [
-      "Insufficient suction pressure",
-      "Technical training",
-      "Maintain standby units",
-      "Enforce safety protocols"
+      "Restricted fluid flow",
+      "Water distribution check",
+      "Increased accident potential",
+      "Technical training"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "MEC-PQ-180",
@@ -3912,10 +3912,10 @@
     "section": "SYSTEMS",
     "question": "What fault causes delayed response in hydraulic systems?",
     "options": [
-      "Dirty ducts",
+      "Insufficient suction pressure",
       "Air in system",
-      "Control system malfunction",
-      "Load assessment"
+      "Maintain standby units",
+      "Enforce safety protocols"
     ],
     "correctIndex": 1
   },
@@ -3926,12 +3926,12 @@
     "section": "SYSTEMS",
     "question": "What action ensures compliance during contractor equipment use?",
     "options": [
-      "Safety switch activation",
-      "Pump performance check",
+      "Dirty ducts",
       "Supervision and monitoring",
-      "Fluid cleanliness control"
+      "Control system malfunction",
+      "Load assessment"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "MEC-PQ-182",
@@ -3940,12 +3940,12 @@
     "section": "SYSTEMS",
     "question": "What maintenance practice reduces unexpected breakdowns?",
     "options": [
-      "Supervision and monitoring",
+      "Safety switch activation",
+      "Pump performance check",
       "Predictive maintenance",
-      "Fouled heat exchangers",
-      "Electrical overload"
+      "Fluid cleanliness control"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "MEC-PQ-183",
@@ -3954,10 +3954,10 @@
     "section": "SYSTEMS",
     "question": "What supervisory responsibility ensures documentation accuracy?",
     "options": [
-      "Major system failure",
+      "Supervision and monitoring",
       "Record verification",
-      "Performance monitoring",
-      "Proper documentation"
+      "Fouled heat exchangers",
+      "Electrical overload"
     ],
     "correctIndex": 1
   },
@@ -3968,12 +3968,12 @@
     "section": "SYSTEMS",
     "question": "What fault leads to repeated equipment shutdowns?",
     "options": [
+      "Major system failure",
       "Unresolved root causes",
-      "Immediate investigation",
-      "Inspect drive components",
-      "Imbalance or misalignment"
+      "Performance monitoring",
+      "Proper documentation"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "MEC-PQ-185",
@@ -3982,12 +3982,12 @@
     "section": "SYSTEMS",
     "question": "What operational decision ensures equipment longevity?",
     "options": [
-      "SOP enforcement",
-      "Inspect hydraulic system",
       "Operate within design limits",
-      "Strict maintenance compliance"
+      "Immediate investigation",
+      "Inspect drive components",
+      "Imbalance or misalignment"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "MEC-PQ-186",
@@ -3996,12 +3996,12 @@
     "section": "SYSTEMS",
     "question": "What maintenance action prevents contamination in hydraulic systems?",
     "options": [
-      "Operational certification",
+      "Technical training",
+      "Preventive maintenance",
       "Filter replacement",
-      "Maintain standby units",
-      "Gauge monitoring"
+      "Worn brake components"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "MEC-PQ-187",
@@ -4010,12 +4010,12 @@
     "section": "SYSTEMS",
     "question": "What supervisory decision improves emergency response capability?",
     "options": [
+      "Operational certification",
       "Equipment readiness checks",
-      "Inspect bearings and alignment",
-      "Water treatment",
-      "Proper documentation"
+      "Dirty ducts",
+      "Gauge monitoring"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "MEC-PQ-188",
@@ -4024,12 +4024,12 @@
     "section": "SYSTEMS",
     "question": "What action ensures proper handover between shifts?",
     "options": [
-      "Regular inspections",
       "Maintenance briefing",
-      "Planned maintenance windows",
-      "Spare parts availability"
+      "Inspect bearings and alignment",
+      "Water treatment",
+      "Proper documentation"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "MEC-PQ-189",
@@ -4038,12 +4038,12 @@
     "section": "SYSTEMS",
     "question": "What fault causes erratic equipment movement?",
     "options": [
-      "Electrical overload",
-      "Oil level monitoring",
+      "Strict maintenance compliance",
       "Control system malfunction",
-      "Spare parts availability"
+      "Functional emergency stops",
+      "Regular inspections"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "MEC-PQ-190",
@@ -4052,12 +4052,12 @@
     "section": "SYSTEMS",
     "question": "What maintenance practice ensures consistent performance?",
     "options": [
+      "Electrical overload",
+      "Oil level monitoring",
       "Routine inspection",
-      "Inspect drive components",
-      "Performance monitoring",
-      "Specification enforcement"
+      "Spare parts availability"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
     "id": "MEC-PQ-191",
@@ -4067,9 +4067,9 @@
     "question": "What supervisory responsibility ensures compliance with manufacturer guidelines?",
     "options": [
       "Specification enforcement",
-      "Operate within design limits",
-      "Increased accident potential",
-      "Insufficient suction pressure"
+      "Drive system issues",
+      "Performance monitoring",
+      "Control system malfunction"
     ],
     "correctIndex": 0
   },
@@ -4080,12 +4080,12 @@
     "section": "SYSTEMS",
     "question": "What action should follow repeated mechanical alarms?",
     "options": [
-      "Operational certification",
-      "Follow shutdown procedure",
-      "Inspect hydraulic system",
-      "System diagnostics"
+      "System diagnostics",
+      "Operate within design limits",
+      "Increased accident potential",
+      "Insufficient suction pressure"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "id": "MEC-PQ-193",
@@ -4094,12 +4094,12 @@
     "section": "SYSTEMS",
     "question": "What risk is associated with bypassing safety interlocks?",
     "options": [
-      "Regular inspection and cleaning",
-      "Monitoring system load",
-      "Increased accident potential",
-      "Planned maintenance scheduling"
+      "Operational certification",
+      "Follow shutdown procedure",
+      "Inspect hydraulic system",
+      "Increased accident potential"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "MEC-PQ-194",
@@ -4108,12 +4108,12 @@
     "section": "SYSTEMS",
     "question": "What maintenance practice ensures reliability of safety systems?",
     "options": [
-      "Fouled heat exchangers",
+      "Regular inspection and cleaning",
+      "Monitoring system load",
       "Functional testing",
-      "Enforce inspection schedules",
-      "Regular lubrication"
+      "Daily mechanical checks"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "MEC-PQ-195",
@@ -4122,12 +4122,12 @@
     "section": "SYSTEMS",
     "question": "What supervisory action ensures accountability?",
     "options": [
-      "Flow and pressure testing",
-      "Load limit enforcement",
-      "Daily mechanical checks",
-      "Proper documentation"
+      "Fouled heat exchangers",
+      "Proper documentation",
+      "Visual and mechanical checks",
+      "Ensure operational compliance"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
     "id": "MEC-PQ-196",
@@ -4136,9 +4136,9 @@
     "section": "SYSTEMS",
     "question": "What fault causes loss of system pressure?",
     "options": [
-      "Structural wear",
-      "Enforce safety protocols",
-      "Site supervision",
+      "Flow and pressure testing",
+      "Load limit enforcement",
+      "Daily mechanical checks",
       "Leakage"
     ],
     "correctIndex": 3
@@ -4150,12 +4150,12 @@
     "section": "SYSTEMS",
     "question": "What operational practice reduces wear and tear?",
     "options": [
-      "Smooth operation",
-      "Follow shutdown procedure",
-      "Record verification",
-      "Worn rollers"
+      "Structural wear",
+      "Enforce safety protocols",
+      "Site supervision",
+      "Smooth operation"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
     "id": "MEC-PQ-198",
@@ -4165,9 +4165,9 @@
     "question": "What maintenance decision improves operational efficiency?",
     "options": [
       "Planned maintenance",
-      "Smooth operation",
-      "Flow and pressure testing",
-      "Operational testing SECTION D: BHS, ESCALATORS, FIRE TRUCKS & HEAVY EQUIPMENT (131–200)"
+      "Equipment failure",
+      "Operate within design limits",
+      "Proper lubrication"
     ],
     "correctIndex": 0
   },
@@ -4178,12 +4178,12 @@
     "section": "SYSTEMS",
     "question": "What supervisory responsibility ensures operational continuity?",
     "options": [
-      "Strict maintenance compliance",
       "Equipment availability management",
-      "Immediate investigation",
-      "Dirty ducts"
+      "Smooth operation",
+      "Flow and pressure testing",
+      "Operational testing SECTION D: BHS, ESCALATORS, FIRE TRUCKS & HEAVY EQUIPMENT (131–200)"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "MEC-PQ-200",
@@ -4192,12 +4192,12 @@
     "section": "SYSTEMS",
     "question": "What post-maintenance requirement confirms readiness for service?",
     "options": [
-      "Drive system issues",
-      "Safety system malfunction",
+      "Strict maintenance compliance",
       "Operational certification",
-      "Load monitoring"
+      "Immediate investigation",
+      "Dirty ducts"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "GEN-LQ-1",
