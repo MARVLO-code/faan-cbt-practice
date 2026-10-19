@@ -1,0 +1,664 @@
+[
+  {
+    "id": "GEN-LQ-1",
+    "category": "general",
+    "type": "likely",
+    "section": "FAAN Conditions of Service",
+    "question": "When did the FAAN Staff Conditions of Service come into effect?",
+    "options": ["1st January, 1996", "1st July, 2011", "1st October, 1999", "1st April, 2004"],
+    "correctIndex": 1
+  },
+  {
+    "id": "GEN-LQ-2",
+    "category": "general",
+    "type": "likely",
+    "section": "FAAN Conditions of Service",
+    "question": "Under the FAAN Conditions of Service, who is referred to as 'Management'?",
+    "options": [
+      "All officers on Grade Level 15 and above",
+      "All officers on Grade Level 12-14",
+      "All officers on Grade Level 07-10",
+      "All officers on Grade Level 01-06"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "GEN-LQ-3",
+    "category": "general",
+    "type": "likely",
+    "section": "FAAN Conditions of Service",
+    "question": "Which Grade Level range is classified as 'Middle Management' in FAAN?",
+    "options": ["Grade Level 01-06", "Grade Level 07-10", "Grade Level 12-14", "Grade Level 15-17"],
+    "correctIndex": 2
+  },
+  {
+    "id": "GEN-LQ-4",
+    "category": "general",
+    "type": "likely",
+    "section": "FAAN Conditions of Service",
+    "question": "Which Grade Level range is classified as 'Supervisory Staff' in FAAN?",
+    "options": ["Grade Level 01-06", "Grade Level 07-10", "Grade Level 12-14", "Grade Level 15 and above"],
+    "correctIndex": 1
+  },
+  {
+    "id": "GEN-LQ-5",
+    "category": "general",
+    "type": "likely",
+    "section": "FAAN Conditions of Service",
+    "question": "How long is the probationary period for a newly appointed FAAN employee before confirmation?",
+    "options": ["One year", "Two years", "Three years", "Six months"],
+    "correctIndex": 1
+  },
+  {
+    "id": "GEN-LQ-6",
+    "category": "general",
+    "type": "likely",
+    "section": "FAAN Conditions of Service",
+    "question": "What is the minimum and maximum age for eligibility for appointment into FAAN?",
+    "options": [
+      "Not less than 18 and not above 50 years",
+      "Not less than 16 and not above 45 years",
+      "Not less than 21 and not above 60 years",
+      "Not less than 18 and not above 40 years"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "GEN-LQ-7",
+    "category": "general",
+    "type": "likely",
+    "section": "FAAN Conditions of Service",
+    "question": "What is the minimum duration of an Acting Appointment in FAAN?",
+    "options": ["7 days", "14 days", "30 days", "90 days"],
+    "correctIndex": 2
+  },
+  {
+    "id": "GEN-LQ-8",
+    "category": "general",
+    "type": "likely",
+    "section": "FAAN Conditions of Service",
+    "question": "What is the maximum duration an Acting Appointment can run at a time in FAAN?",
+    "options": ["Three months", "Six months", "One year", "Two years"],
+    "correctIndex": 1
+  },
+  {
+    "id": "GEN-LQ-9",
+    "category": "general",
+    "type": "likely",
+    "section": "FAAN Conditions of Service",
+    "question": "Who chairs the Senior Staff Committee at FAAN Headquarters that handles cases of officers on Grade Level 07-14?",
+    "options": [
+      "The Managing Director",
+      "The Director of Human Resources",
+      "The General Manager Human Resources",
+      "The Airport Manager"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "GEN-LQ-10",
+    "category": "general",
+    "type": "likely",
+    "section": "FAAN Conditions of Service",
+    "question": "Who chairs the Management Staff Committee that handles cases of officers on Grade Level 15-17?",
+    "options": [
+      "The Managing Director",
+      "The Director of Human Resources",
+      "The Chairman of the Board",
+      "The Secretary to the Authority"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "GEN-LQ-11",
+    "category": "general",
+    "type": "likely",
+    "section": "Objectives and Functions of FAAN",
+    "question": "What is the vision statement of FAAN?",
+    "options": [
+      "To be amongst the best airport groups in the world",
+      "To provide the cheapest air travel in Africa",
+      "To be the largest cargo hub in West Africa",
+      "To eliminate flight delays nationwide"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "GEN-LQ-12",
+    "category": "general",
+    "type": "likely",
+    "section": "Objectives and Functions of FAAN",
+    "question": "Which of these is a major source of FAAN's AERONAUTICAL revenue?",
+    "options": ["Landing fees", "Rent from shops", "Car stickers", "Advert royalty"],
+    "correctIndex": 0
+  },
+  {
+    "id": "GEN-LQ-13",
+    "category": "general",
+    "type": "likely",
+    "section": "Objectives and Functions of FAAN",
+    "question": "Which of these is classified as a NON-AERONAUTICAL source of revenue for FAAN?",
+    "options": ["Passenger Service Charge (PSC)", "Landing fees", "Concession fees", "Avio-bridge charges"],
+    "correctIndex": 2
+  },
+  {
+    "id": "GEN-LQ-14",
+    "category": "general",
+    "type": "likely",
+    "section": "Objectives and Functions of FAAN",
+    "question": "FAAN is classified under which category of organisation in Nigeria?",
+    "options": [
+      "A private limited liability company",
+      "A Parastatal organisation under the Federal Ministry of Aviation",
+      "A non-governmental organisation",
+      "A state government agency"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "GEN-LQ-15",
+    "category": "general",
+    "type": "likely",
+    "section": "Financial Regulations",
+    "question": "Financial regulations for private companies in Nigeria are primarily derived from which Act?",
+    "options": [
+      "Companies and Allied Matters Act (CAMA)",
+      "Public Service Rules",
+      "FAAN Act No. 9 of 1996",
+      "Pension Reform Act"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "GEN-LQ-16",
+    "category": "general",
+    "type": "likely",
+    "section": "Financial Regulations",
+    "question": "For government organisations, financial regulations and circulars are issued primarily from which office?",
+    "options": [
+      "Office of the Accountant General of the Federation",
+      "Central Bank of Nigeria",
+      "Federal Ministry of Aviation",
+      "Office of the Auditor General for Local Government"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "GEN-LQ-17",
+    "category": "general",
+    "type": "likely",
+    "section": "Financial Regulations",
+    "question": "Government finance is broadly classified into which two categories?",
+    "options": [
+      "Revenue/Income and Expenditure",
+      "Grants and Loans",
+      "Assets and Liabilities",
+      "Tax and Non-tax revenue"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "GEN-LQ-18",
+    "category": "general",
+    "type": "likely",
+    "section": "Public Service Rules",
+    "question": "What is required before a staff member can be confirmed in appointment after probation?",
+    "options": [
+      "A report of satisfactory performance from the immediate supervisor",
+      "Payment of a confirmation fee",
+      "Passing a medical re-examination only",
+      "A recommendation letter from the Board"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "GEN-LQ-19",
+    "category": "general",
+    "type": "likely",
+    "section": "Public Service Rules",
+    "question": "Under FAAN rules, what happens when a staff's Acting Appointment ceases?",
+    "options": [
+      "It ceases on confirmation of the acting officer or on filling of the vacant post",
+      "It ceases automatically after 7 days",
+      "It ceases only when the officer resigns",
+      "It never ceases once approved"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "GEN-LQ-20",
+    "category": "general",
+    "type": "likely",
+    "section": "National Honours",
+    "question": "Which national honour ranks immediately after GCON in Nigeria's honours system as referenced in the syllabus?",
+    "options": ["CFR", "MFR", "OON", "NPOM"],
+    "correctIndex": 0
+  },
+  {
+    "id": "GEN-LQ-21",
+    "category": "general",
+    "type": "likely",
+    "section": "Machinery of Government",
+    "question": "Which doctrine ensures that no single arm of government becomes too powerful by distributing functions among the Executive, Legislature and Judiciary?",
+    "options": ["Separation of powers", "Rule of law", "Federal character", "Due process"],
+    "correctIndex": 0
+  },
+  {
+    "id": "GEN-LQ-22",
+    "category": "general",
+    "type": "likely",
+    "section": "Machinery of Government",
+    "question": "In what year did Nigeria return to the Presidential system of government that still operates today?",
+    "options": ["1960", "1979", "1983", "1999"],
+    "correctIndex": 3
+  },
+  {
+    "id": "GEN-LQ-23",
+    "category": "general",
+    "type": "likely",
+    "section": "Machinery of Government",
+    "question": "Nigeria practised the Parliamentary system of government between which years?",
+    "options": ["1960-1966", "1966-1979", "1979-1983", "1983-1999"],
+    "correctIndex": 0
+  },
+  {
+    "id": "GEN-LQ-24",
+    "category": "general",
+    "type": "likely",
+    "section": "Promotion & Administration",
+    "question": "According to the syllabus, what three things must an officer demonstrate to earn promotion?",
+    "options": [
+      "Ability/competence, satisfactory conduct, and creditable exam/interview success",
+      "Length of service only",
+      "Educational qualification only",
+      "Recommendation from a colleague"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "GEN-LQ-25",
+    "category": "general",
+    "type": "likely",
+    "section": "Audit & Administration",
+    "question": "What is the key difference between Internal Auditors and Auditor General's Office Auditors in FAAN's stock-taking process?",
+    "options": [
+      "Internal Auditors are FAAN's own staff auditing internally, while Auditor General's Office Auditors are external statutory auditors",
+      "There is no difference, they are the same category",
+      "Internal Auditors only check cash while the Auditor General checks only assets",
+      "Internal Auditors report to the Ministry of Aviation while Auditor General's Office reports to FAAN"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "GEN-LQ-26",
+    "category": "general",
+    "type": "likely",
+    "section": "Hazardous Materials & Safety",
+    "question": "Which hazard class sign would you expect on a material that reacts strongly to release oxygen and intensify fire?",
+    "options": ["Oxidizer sign", "Corrosive sign", "Flammable sign", "Blasting agent sign"],
+    "correctIndex": 0
+  },
+  {
+    "id": "GEN-LQ-27",
+    "category": "general",
+    "type": "likely",
+    "section": "Hazardous Materials & Safety",
+    "question": "What is the recommended first step before handling any hazardous material in the workplace?",
+    "options": ["Proper identification of the material", "Immediate disposal", "Calling the fire service", "Ignoring the label"],
+    "correctIndex": 0
+  },
+  {
+    "id": "GEN-LQ-28",
+    "category": "general",
+    "type": "likely",
+    "section": "Promotion & Administration",
+    "question": "What document specifically governs the cadre, salary, duties and entry methods for each job class in FAAN?",
+    "options": ["Scheme of Service", "Conditions of Service", "Financial Regulations", "Public Service Rules"],
+    "correctIndex": 0
+  },
+  {
+    "id": "GEN-LQ-29",
+    "category": "general",
+    "type": "likely",
+    "section": "FAAN Conditions of Service",
+    "question": "In FAAN's Conditions of Service, how many children of an employee are covered under the definition of 'family'?",
+    "options": ["Two", "Three", "Four", "Five"],
+    "correctIndex": 2
+  },
+  {
+    "id": "GEN-LQ-30",
+    "category": "general",
+    "type": "likely",
+    "section": "Objectives and Functions of FAAN",
+    "question": "Which of these airports is NOT managed directly as a major international airport under FAAN's listed international airports?",
+    "options": ["Murtala Mohammed International Airport, Lagos", "Nnamdi Azikiwe International Airport, Abuja", "Mallam Aminu Kano International Airport, Kano", "Asaba Airport, Delta State"],
+    "correctIndex": 3
+  },
+  {
+    "id": "MEC-LQ-1",
+    "category": "mechanical",
+    "type": "likely",
+    "section": "Engines",
+    "question": "What is the main difference between a CI (Compression Ignition) engine and an SI (Spark Ignition) engine?",
+    "options": [
+      "A CI engine ignites fuel by heat of compression while an SI engine ignites fuel with a spark plug",
+      "A CI engine uses petrol while an SI engine uses diesel",
+      "A CI engine has no pistons while an SI engine does",
+      "There is no real difference between them"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "MEC-LQ-2",
+    "category": "mechanical",
+    "type": "likely",
+    "section": "Engines",
+    "question": "Diesel engines used in FAAN generators are typically classified as which engine type?",
+    "options": ["Spark Ignition (SI) engines", "Compression Ignition (CI) engines", "Rotary engines", "Steam engines"],
+    "correctIndex": 1
+  },
+  {
+    "id": "MEC-LQ-3",
+    "category": "mechanical",
+    "type": "likely",
+    "section": "Firing Order",
+    "question": "A typical firing order pattern for a 4-cylinder engine is best described as:",
+    "options": ["Alternating cylinders", "Balanced pairs", "Even power distribution only", "Random firing"],
+    "correctIndex": 0
+  },
+  {
+    "id": "MEC-LQ-4",
+    "category": "mechanical",
+    "type": "likely",
+    "section": "Firing Order",
+    "question": "What immediate problem can a supervisor expect if a generator's engine firing order is incorrect?",
+    "options": ["Vibration and engine mount failure", "Improved fuel economy", "Lower exhaust temperature", "Increased engine lifespan"],
+    "correctIndex": 0
+  },
+  {
+    "id": "MEC-LQ-5",
+    "category": "mechanical",
+    "type": "likely",
+    "section": "Cooling Systems",
+    "question": "In an engine cooling system (not HVAC), which component regulates the flow of coolant based on engine temperature?",
+    "options": ["Thermostat", "Compressor", "Expansion valve", "Evaporator"],
+    "correctIndex": 0
+  },
+  {
+    "id": "MEC-LQ-6",
+    "category": "mechanical",
+    "type": "likely",
+    "section": "Cooling Systems",
+    "question": "Which cooling system type is more suitable for large international terminals with high cooling demand?",
+    "options": ["Split/package system", "Chiller system", "Window unit system", "Evaporative cooler"],
+    "correctIndex": 1
+  },
+  {
+    "id": "MEC-LQ-7",
+    "category": "mechanical",
+    "type": "likely",
+    "section": "Cooling Systems",
+    "question": "In an HVAC split/package system, where is the heat absorbed by the refrigerant finally released?",
+    "options": ["Outside the building", "Inside the occupied space", "Into the ductwork", "Into the chilled water loop"],
+    "correctIndex": 0
+  },
+  {
+    "id": "MEC-LQ-8",
+    "category": "mechanical",
+    "type": "likely",
+    "section": "Cooling Systems",
+    "question": "A chiller system produces what medium to transfer cooling to Air Handling Units (AHUs)?",
+    "options": ["Chilled water", "Compressed air", "Refrigerant gas only", "Steam"],
+    "correctIndex": 0
+  },
+  {
+    "id": "MEC-LQ-9",
+    "category": "mechanical",
+    "type": "likely",
+    "section": "Workshop Safety",
+    "question": "Before carrying out a major repair job in the mechanical workshop, what must be completed first?",
+    "options": ["Risk assessment", "Overtime approval", "Procurement of new tools", "Staff appraisal"],
+    "correctIndex": 0
+  },
+  {
+    "id": "MEC-LQ-10",
+    "category": "mechanical",
+    "type": "likely",
+    "section": "Workshop Safety",
+    "question": "What safety procedure must be enforced to prevent accidental machine start-up during maintenance?",
+    "options": ["Lock-out / tag-out", "Overtime rotation", "Firing order check", "Load acceptance test"],
+    "correctIndex": 0
+  },
+  {
+    "id": "MEC-LQ-11",
+    "category": "mechanical",
+    "type": "likely",
+    "section": "Generator Safety",
+    "question": "Why must standby generators never be loaded beyond rated capacity?",
+    "options": [
+      "To prevent overload damage and ensure stable terminal power supply",
+      "To reduce the purchase cost of fuel",
+      "To make the generator run quieter",
+      "It has no real safety impact"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "MEC-LQ-12",
+    "category": "mechanical",
+    "type": "likely",
+    "section": "Generator Safety",
+    "question": "Why must generator rooms have proper ventilation?",
+    "options": [
+      "To avoid carbon monoxide (CO) buildup",
+      "To keep the generator cool at night only",
+      "To reduce electrical bills",
+      "It is purely a cosmetic requirement"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "MEC-LQ-13",
+    "category": "mechanical",
+    "type": "likely",
+    "section": "Maintenance Types",
+    "question": "Which maintenance strategy relies on scheduled servicing at fixed intervals to prevent failure, regardless of equipment condition?",
+    "options": ["Preventive maintenance", "Breakdown maintenance", "Predictive maintenance", "Corrective maintenance only"],
+    "correctIndex": 0
+  },
+  {
+    "id": "MEC-LQ-14",
+    "category": "mechanical",
+    "type": "likely",
+    "section": "Maintenance Types",
+    "question": "Which maintenance strategy uses usage data and condition monitoring to forecast component failure before it happens?",
+    "options": ["Predictive maintenance", "Breakdown maintenance", "Reactive maintenance", "Emergency maintenance"],
+    "correctIndex": 0
+  },
+  {
+    "id": "MEC-LQ-15",
+    "category": "mechanical",
+    "type": "likely",
+    "section": "Maintenance Types",
+    "question": "Repairing equipment only after it has already failed is best described as:",
+    "options": ["Breakdown maintenance", "Preventive maintenance", "Predictive maintenance", "Condition-based maintenance"],
+    "correctIndex": 0
+  },
+  {
+    "id": "MEC-LQ-16",
+    "category": "mechanical",
+    "type": "likely",
+    "section": "PBB Safety",
+    "question": "What is the main risk of an improperly aligned Passenger Boarding Bridge (PBB) during docking?",
+    "options": [
+      "Damage to the aircraft door and resulting flight delays",
+      "Increased fuel consumption of the aircraft",
+      "Reduced cabin pressure",
+      "No significant risk"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "MEC-LQ-17",
+    "category": "mechanical",
+    "type": "likely",
+    "section": "PBB Safety",
+    "question": "Who should be allowed to operate the movement of a Passenger Boarding Bridge?",
+    "options": ["Only trained operators", "Any available staff", "Passengers under supervision", "Cleaning staff"],
+    "correctIndex": 0
+  },
+  {
+    "id": "MEC-LQ-18",
+    "category": "mechanical",
+    "type": "likely",
+    "section": "BHS",
+    "question": "Which type of Baggage Handling System (BHS) is primarily used for arrival baggage claim?",
+    "options": ["Carousel system", "Line conveyor system", "Travolator system", "Elevator system"],
+    "correctIndex": 0
+  },
+  {
+    "id": "MEC-LQ-19",
+    "category": "mechanical",
+    "type": "likely",
+    "section": "BHS",
+    "question": "Which BHS type is primarily used to transport baggage between different points in the terminal?",
+    "options": ["Line conveyor system", "Carousel system", "Hydraulic lift system", "Escalator system"],
+    "correctIndex": 0
+  },
+  {
+    "id": "MEC-LQ-20",
+    "category": "mechanical",
+    "type": "likely",
+    "section": "BHS",
+    "question": "What should be done immediately when a BHS conveyor jams during operation?",
+    "options": ["Stop the system immediately", "Increase belt speed to clear it", "Ignore it until end of shift", "Allow passengers to clear it manually"],
+    "correctIndex": 0
+  },
+  {
+    "id": "MEC-LQ-21",
+    "category": "mechanical",
+    "type": "likely",
+    "section": "Lifts & Escalators",
+    "question": "Which of the following is a major component of a lift but NOT typically listed for an escalator?",
+    "options": ["Counterweight", "Steps", "Handrail", "Chain"],
+    "correctIndex": 0
+  },
+  {
+    "id": "MEC-LQ-22",
+    "category": "mechanical",
+    "type": "likely",
+    "section": "Lifts & Escalators",
+    "question": "What action should be taken if a lift or escalator shows abnormal vibration or noise?",
+    "options": ["Shut down the equipment", "Continue operating and monitor", "Increase speed to diagnose", "Ignore minor noise"],
+    "correctIndex": 0
+  },
+  {
+    "id": "MEC-LQ-23",
+    "category": "mechanical",
+    "type": "likely",
+    "section": "Lifts, Escalators & Travolators",
+    "question": "Which component is common to lifts, escalators AND travolators?",
+    "options": ["Drive/hoisting motor", "Counterweight", "Hoisting cables", "Chain"],
+    "correctIndex": 0
+  },
+  {
+    "id": "MEC-LQ-24",
+    "category": "mechanical",
+    "type": "likely",
+    "section": "HVAC Troubleshooting",
+    "question": "Poor cooling in an HVAC/AC system is most likely caused by what?",
+    "options": ["Low refrigerant or dirty filters", "Overloaded generator", "Worn conveyor rollers", "Faulty fire truck pump"],
+    "correctIndex": 0
+  },
+  {
+    "id": "MEC-LQ-25",
+    "category": "mechanical",
+    "type": "likely",
+    "section": "HVAC Troubleshooting",
+    "question": "High pressure readings in a cooling system are typically caused by what fault?",
+    "options": ["Blocked condenser", "Worn bearings", "Low oil pressure", "Firing order error"],
+    "correctIndex": 0
+  },
+  {
+    "id": "MEC-LQ-26",
+    "category": "mechanical",
+    "type": "likely",
+    "section": "HVAC Troubleshooting",
+    "question": "Abnormal noise from a cooling system's compressor or fan unit is most likely due to what?",
+    "options": ["Bearing or alignment issues", "Low airflow only", "Carbon buildup", "Excess refrigerant"],
+    "correctIndex": 0
+  },
+  {
+    "id": "MEC-LQ-27",
+    "category": "mechanical",
+    "type": "likely",
+    "section": "Fire Trucks",
+    "question": "Which component of a fire truck pressurizes the water or foam for discharge?",
+    "options": ["The pump", "The turret", "The water tank", "The braking system"],
+    "correctIndex": 0
+  },
+  {
+    "id": "MEC-LQ-28",
+    "category": "mechanical",
+    "type": "likely",
+    "section": "Fire Trucks",
+    "question": "Which component of a fire truck directs the firefighting agent onto the target during discharge?",
+    "options": ["Turret (monitor)", "Foam tank", "Engine", "Braking system"],
+    "correctIndex": 0
+  },
+  {
+    "id": "MEC-LQ-29",
+    "category": "mechanical",
+    "type": "likely",
+    "section": "Fire Trucks",
+    "question": "A fire truck that fails its pressure test should be treated how?",
+    "options": ["Withdrawn from service immediately", "Used for low-priority calls only", "Repaired at the next convenient time", "Ignored if visually intact"],
+    "correctIndex": 0
+  },
+  {
+    "id": "MEC-LQ-30",
+    "category": "mechanical",
+    "type": "likely",
+    "section": "Hydraulics",
+    "question": "What is the most likely cause of equipment 'drift' in a hydraulic system?",
+    "options": ["Valve leakage", "Overfilled fuel tank", "Worn conveyor belt", "Incorrect firing order"],
+    "correctIndex": 0
+  },
+  {
+    "id": "MEC-LQ-31",
+    "category": "mechanical",
+    "type": "likely",
+    "section": "Hydraulics",
+    "question": "What does the presence of air in a hydraulic system typically cause?",
+    "options": ["Delayed/spongy response in the system", "Faster response time", "Increased fluid cleanliness", "No noticeable effect"],
+    "correctIndex": 0
+  },
+  {
+    "id": "MEC-LQ-32",
+    "category": "mechanical",
+    "type": "likely",
+    "section": "Level 10 Supervisory Role",
+    "question": "At Level 10, how does safety responsibility differ from more junior levels?",
+    "options": [
+      "Safety responsibility shifts from personal safety to team and system safety",
+      "Safety responsibility is removed entirely",
+      "Safety responsibility remains the same as junior levels",
+      "Safety responsibility is handled only by the safety department"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "MEC-LQ-33",
+    "category": "mechanical",
+    "type": "likely",
+    "section": "Level 10 Supervisory Role",
+    "question": "At Level 10, what does SOP (Standard Operating Procedure) compliance mean beyond simply following steps?",
+    "options": [
+      "Enforcement and supervision of SOP, not just personal compliance",
+      "Writing new SOPs daily",
+      "Ignoring SOP when under time pressure",
+      "Delegating all SOP responsibility to contractors"
+    ],
+    "correctIndex": 0
+  }
+]

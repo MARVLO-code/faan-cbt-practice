@@ -1,0 +1,11 @@
+app/node_modules/
+app/dist/
+scripts/__pycache__/
+*.log
+
+# Source study material kept local-only (not pushed to GitHub)
+*.pdf
+reading_guide_full.txt
+scripts/current_affairs.json
+scripts/mechanical_practice.json
+scripts/past_questions.json
