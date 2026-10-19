@@ -4,7 +4,7 @@ A offline-friendly, self-grading multiple-choice practice test for the FAAN
 Staff Promotion Examination, focused on the **Mechanical Department**
 syllabus plus **General Knowledge / Current Affairs**.
 
-## How it works
+## How it  works
 
 - Everything runs **entirely in the browser** — there is no server and no
   internet connection required once the app is loaded/built. Scoring happens
