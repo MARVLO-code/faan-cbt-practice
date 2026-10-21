@@ -2,6 +2,7 @@ import { useState } from 'react';
 import Setup from './components/Setup';
 import Exam from './components/Exam';
 import Results from './components/Results';
+import DownloadWindowsApp from './components/DownloadWindowsApp';
 import { buildSession } from './questionBank';
 import { clearSession, loadSession, saveSession } from './persistence';
 import type { Answer, Question, SessionConfig, SessionResult } from './types';
@@ -90,7 +91,12 @@ export default function App() {
 
   return (
     <div className="app-shell">
-      {view.screen === 'setup' && <Setup onStart={handleStart} />}
+      {view.screen === 'setup' && (
+        <div className="setup-layout">
+          <Setup onStart={handleStart} />
+          <DownloadWindowsApp />
+        </div>
+      )}
       {view.screen === 'exam' && (
         <Exam
           config={view.config}

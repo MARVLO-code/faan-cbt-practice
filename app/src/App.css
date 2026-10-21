@@ -6,6 +6,36 @@
   padding: 24px 16px 60px;
 }
 
+.setup-layout {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  gap: 16px;
+  width: 100%;
+  max-width: 760px;
+}
+
+@media (min-width: 900px) {
+  .setup-layout {
+    flex-direction: row;
+    align-items: flex-start;
+    max-width: 1060px;
+  }
+
+  .setup-layout .setup-card {
+    flex: 1;
+    min-width: 0;
+    max-width: 700px;
+  }
+
+  .setup-layout .download-card {
+    width: 280px;
+    flex-shrink: 0;
+    position: sticky;
+    top: 24px;
+  }
+}
+
 .card {
   background: var(--card-bg);
   border: 1px solid var(--border);
@@ -112,15 +142,52 @@
 }
 
 .download-card {
-  margin-top: 30px;
-  padding: 20px;
+  padding: 0;
   border: 2px dashed var(--border);
   border-radius: 12px;
   background: #f9fafb;
+  overflow: hidden;
+}
+
+.download-summary {
+  list-style: none;
+  cursor: pointer;
+  padding: 16px 20px;
+  font-weight: 700;
+  font-size: 16px;
+  color: var(--primary-dark);
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.download-summary::-webkit-details-marker {
+  display: none;
+}
+
+.download-summary::before {
+  content: '⬇';
+  font-size: 15px;
+}
+
+.download-summary::after {
+  content: 'Tap to expand';
+  margin-left: auto;
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--text-muted);
+}
+
+.download-card[open] .download-summary::after {
+  content: 'Tap to collapse';
+}
+
+.download-body {
+  padding: 0 20px 20px;
 }
 
 .download-card h2 {
-  font-size: 18px;
+  font-size: 17px;
   margin-bottom: 6px;
 }
 
@@ -134,13 +201,27 @@
 .download-steps {
   margin: 0;
   padding-left: 20px;
-  font-size: 15px;
+  font-size: 14px;
   color: var(--text-muted);
   line-height: 1.6;
 }
 
 .download-steps li {
   margin-bottom: 4px;
+}
+
+@media (min-width: 900px) {
+  .download-summary {
+    display: none;
+  }
+
+  .download-card > .download-body {
+    display: block;
+  }
+
+  .download-body {
+    padding: 20px;
+  }
 }
 
 /* Exam screen */
