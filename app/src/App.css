@@ -150,19 +150,19 @@
 }
 
 .download-summary {
-  list-style: none;
+  width: 100%;
+  border: none;
+  background: none;
   cursor: pointer;
   padding: 16px 20px;
+  font: inherit;
   font-weight: 700;
   font-size: 16px;
   color: var(--primary-dark);
   display: flex;
   align-items: center;
   gap: 8px;
-}
-
-.download-summary::-webkit-details-marker {
-  display: none;
+  text-align: left;
 }
 
 .download-summary::before {
@@ -170,16 +170,11 @@
   font-size: 15px;
 }
 
-.download-summary::after {
-  content: 'Tap to expand';
+.download-chevron {
   margin-left: auto;
   font-size: 13px;
   font-weight: 500;
   color: var(--text-muted);
-}
-
-.download-card[open] .download-summary::after {
-  content: 'Tap to collapse';
 }
 
 .download-body {
@@ -213,10 +208,6 @@
 @media (min-width: 900px) {
   .download-summary {
     display: none;
-  }
-
-  .download-card > .download-body {
-    display: block;
   }
 
   .download-body {
