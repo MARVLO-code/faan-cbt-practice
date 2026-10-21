@@ -1,6 +1,7 @@
 import { useMemo, useState } from 'react';
 import type { CategoryChoice, ModeChoice, SessionConfig } from '../types';
 import { countAvailable } from '../questionBank';
+import DownloadWindowsApp from './DownloadWindowsApp';
 
 interface Props {
   onStart: (config: SessionConfig) => void;
@@ -127,6 +128,8 @@ export default function Setup({ onStart }: Props) {
       >
         Start Practice Test
       </button>
+
+      <DownloadWindowsApp />
     </div>
   );
 }
