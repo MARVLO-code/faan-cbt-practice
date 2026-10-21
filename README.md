@@ -1,4 +1,4 @@
-# FAAN Staff Promotion CBT Practice
+#FAAN Staff Promotion CBT Practice
 
 A offline-friendly, self-grading multiple-choice practice test for the FAAN
 Staff Promotion Examination, focused on the **Mechanical Department**
